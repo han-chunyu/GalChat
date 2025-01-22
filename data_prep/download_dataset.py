@@ -11,5 +11,5 @@ python -c "from huggingface_hub import snapshot_download; snapshot_download(repo
 
 from huggingface_hub import snapshot_download
 
-local_dir = r"./data"
+local_dir = r"./data_prep/data"
 snapshot_download(repo_id="Limour/b-corpus", repo_type="dataset", local_dir=local_dir)
