@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Moe Counter](https://patch-lively-beryl.glitch.me/get/@GalChat?theme=moebooru)](https://github.com/anka-afk/GalChat)
+[![Moe Counter](https://count.getloli.com/get/@GalChat?theme=moebooru)](https://github.com/anka-afk/GalChat)
 
 </div>
 
