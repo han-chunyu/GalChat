@@ -9,10 +9,6 @@
 [![Contributors](https://img.shields.io/github/contributors/anka-afk/GalChat?color=green)](https://github.com/anka-afk/GalChat/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/anka-afk/GalChat)](https://github.com/anka-afk/GalChat/commits/main)
 
-</div>
-
-<div align="center">
-
 [![Moe Counter](https://count.getloli.com/get/@GalChat?theme=moebooru)](https://github.com/anka-afk/GalChat)
 
 </div>
