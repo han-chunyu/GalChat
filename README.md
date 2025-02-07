@@ -145,7 +145,7 @@ python finetune/finetune.py
 
 ## 贡献指南 🤝
 
-我们欢迎各种形式的贡献！请阅读 CONTRIBUTING.md 了解：
+我们欢迎各种形式的贡献！请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解：
 
 - 问题报告规范
 - Pull Request 流程
