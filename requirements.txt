@@ -1,0 +1,8 @@
+huggingface_hub==0.27.1
+modelscope==1.22.3
+ms_swift==3.0.3
+openai==1.61.1
+python_docx==1.1.2
+tenacity==9.0.0
+torch==2.5.1
+tqdm==4.67.1
