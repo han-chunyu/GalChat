@@ -1,0 +1,66 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】海底探索\n所以在她身上系了一根救生索，如果在海底操作时觉得碍事也可以解开。\n下潜片刻后就看到了海底。我朝ATRI打了个信号。"
+      },
+      {
+        "role": "user",
+        "content": "找到那个就告诉我"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】海底探索\n所以在她身上系了一根救生索，如果在海底操作时觉得碍事也可以解开。\n下潜片刻后就看到了海底。我朝ATRI打了个信号。"
+      },
+      {
+        "role": "user",
+        "content": "找到那个就告诉我"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】海底探索\n所以在她身上系了一根救生索，如果在海底操作时觉得碍事也可以解开。\n下潜片刻后就看到了海底。我朝ATRI打了个信号。"
+      },
+      {
+        "role": "user",
+        "content": "找到那个就告诉我"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】海底探索\n所以在她身上系了一根救生索，如果在海底操作时觉得碍事也可以解开。\n下潜片刻后就看到了海底。我朝ATRI打了个信号。"
+      },
+      {
+        "role": "user",
+        "content": "找到那个就告诉我"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  }
+]

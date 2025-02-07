@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "说着这样的话，开始一本本细细调查了起来。"
+      },
+      {
+        "role": "user",
+        "content": "看来会花很多时间啊……我找回收站有点事，挑完了就过来吧"
+      },
+      {
+        "role": "assistant",
+        "content": "好—"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "说着这样的话，开始一本本细细调查了起来。"
+      },
+      {
+        "role": "user",
+        "content": "看来会花很多时间啊……我找回收站有点事，挑完了就过来吧"
+      },
+      {
+        "role": "assistant",
+        "content": "好—"
+      }
+    ]
+  }
+]

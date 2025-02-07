@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】学校教室\n【角色】水菜萌：嗯。结束后收拾了下。然后聊了聊天就有点迟"
+      },
+      {
+        "role": "user",
+        "content": "ATRI还在里面吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "小ATRI可没来哦"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】学校教室\n【角色】水菜萌：嗯。结束后收拾了下。然后聊了聊天就有点迟"
+      },
+      {
+        "role": "user",
+        "content": "ATRI还在里面吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "小ATRI可没来哦"
+      }
+    ]
+  }
+]

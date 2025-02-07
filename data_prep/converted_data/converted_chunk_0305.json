@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "只有ATRI产生了。我不知道契机，同系列中很有可能存在相同的仿生人"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "只有ATRI产生了。我不知道契机，同系列中很有可能存在相同的仿生人"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "如果没有必要讨好我了的话，即便如此，你也……喜欢我么？"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "如果没有必要讨好我了的话，即便如此，你也……喜欢我么？"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "如果没有必要讨好我了的话，即便如此，你也……喜欢我么？"
+      },
+      {
+        "role": "assistant",
+        "content": "……"
+      }
+    ]
+  }
+]

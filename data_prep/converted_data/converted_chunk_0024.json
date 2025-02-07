@@ -1,0 +1,82 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "露出了一丝失落。人的允许也没法交易，根本不一样吧"
+      },
+      {
+        "role": "user",
+        "content": "ATRI，跟着凯瑟琳一起走吧"
+      },
+      {
+        "role": "assistant",
+        "content": "……好的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "露出了一丝失落。人的允许也没法交易，根本不一样吧"
+      },
+      {
+        "role": "user",
+        "content": "ATRI，跟着凯瑟琳一起走吧"
+      },
+      {
+        "role": "assistant",
+        "content": "……好的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "露出了一丝失落。人的允许也没法交易，根本不一样吧\n【角色】凯瑟琳：OK"
+      },
+      {
+        "role": "user",
+        "content": "ATRI，跟着凯瑟琳走吧"
+      },
+      {
+        "role": "assistant",
+        "content": "……好的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "露出了一丝失落。人的允许也没法交易，根本不一样吧\n【角色】凯瑟琳：OK"
+      },
+      {
+        "role": "user",
+        "content": "ATRI，跟着凯瑟琳走吧"
+      },
+      {
+        "role": "assistant",
+        "content": "……好的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "露出了一丝失落。人的允许也没法交易，根本不一样吧\n【角色】凯瑟琳：OK"
+      },
+      {
+        "role": "user",
+        "content": "ATRI，跟着凯瑟琳走吧"
+      },
+      {
+        "role": "assistant",
+        "content": "……好的"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "等一下，现在也许能登陆，给我一个救她的机会"
+      },
+      {
+        "role": "assistant",
+        "content": "危险，夏生先生"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "等一下，现在也许能登陆，给我一个救她的机会"
+      },
+      {
+        "role": "assistant",
+        "content": "危险，夏生先生"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "等一下，现在也许能登陆，给我一个救她的机会"
+      },
+      {
+        "role": "assistant",
+        "content": "危险，夏生先生"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "选项：吻她 / 静静地看她"
+      },
+      {
+        "role": "user",
+        "content": "…………"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯……！？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "选项：吻她 / 静静地看她"
+      },
+      {
+        "role": "user",
+        "content": "…………"
+      },
+      {
+        "role": "assistant",
+        "content": "嗯……！？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "选项：吻她 / 静静地看她\nATRI一瞬之间没有反应过来我到底在对她做什么，睁大了眼睛。"
+      },
+      {
+        "role": "user",
+        "content": "（好漂亮……）"
+      },
+      {
+        "role": "assistant",
+        "content": "啾\n嗯……嗯嗯…………"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "选项：吻她 / 静静地看她\nATRI一瞬之间没有反应过来我到底在对她做什么，睁大了眼睛。"
+      },
+      {
+        "role": "user",
+        "content": "（好漂亮……）"
+      },
+      {
+        "role": "assistant",
+        "content": "啾\n嗯……嗯嗯…………"
+      }
+    ]
+  }
+]

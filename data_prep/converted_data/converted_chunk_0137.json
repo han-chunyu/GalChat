@@ -1,0 +1,50 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】教室\n我把ATRI推到了身后。\n【角色】水菜萌：只要阿夏愿意，我就再给你做。谁叫我是料理部的部长呢♪"
+      },
+      {
+        "role": "user",
+        "content": "谢谢你的心意，可让你做到这份上实在是有点不好意思……"
+      },
+      {
+        "role": "assistant",
+        "content": "水菜萌部长！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】教室\n我把ATRI推到了身后。\n【角色】水菜萌：只要阿夏愿意，我就再给你做。谁叫我是料理部的部长呢♪"
+      },
+      {
+        "role": "user",
+        "content": "谢谢你的心意，可让你做到这份上实在是有点不好意思……"
+      },
+      {
+        "role": "assistant",
+        "content": "水菜萌部长！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】教室\n我把ATRI推到了身后。\n【角色】水菜萌：只要阿夏愿意，我就再给你做。谁叫我是料理部的部长呢♪"
+      },
+      {
+        "role": "user",
+        "content": "谢谢你的心意，可让你做到这份上实在是有点不好意思……"
+      },
+      {
+        "role": "assistant",
+        "content": "水菜萌部长！"
+      }
+    ]
+  }
+]

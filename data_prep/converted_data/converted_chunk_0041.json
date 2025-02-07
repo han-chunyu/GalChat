@@ -1,0 +1,66 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "这是在跟谁争啊。\n【凛凛花】没错！"
+      },
+      {
+        "role": "user",
+        "content": "那能载我们进去吗"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，我来帮忙！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "这是在跟谁争啊。\n【凛凛花】没错！"
+      },
+      {
+        "role": "user",
+        "content": "那能载我们进去吗"
+      },
+      {
+        "role": "assistant",
+        "content": "啊，我来帮忙！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "这是在跟谁争啊。\n【凛凛花】没错！\n【凛凛花】哦……"
+      },
+      {
+        "role": "user",
+        "content": "不用，又想把我丢进海里去吗"
+      },
+      {
+        "role": "assistant",
+        "content": "我已经学习完毕了，没问题的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "这是在跟谁争啊。\n【凛凛花】没错！\n【凛凛花】哦……"
+      },
+      {
+        "role": "user",
+        "content": "不用，又想把我丢进海里去吗"
+      },
+      {
+        "role": "assistant",
+        "content": "我已经学习完毕了，没问题的"
+      }
+    ]
+  }
+]

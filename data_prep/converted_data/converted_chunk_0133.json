@@ -1,0 +1,82 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "朴素地生活下去也没什么不好的……"
+      },
+      {
+        "role": "assistant",
+        "content": "夏生先生！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "朴素地生活下去也没什么不好的……"
+      },
+      {
+        "role": "assistant",
+        "content": "夏生先生！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】小镇的某个角落\n我看着凛凛花费力抱着的大西瓜，如此想到。\n【角色名】龙司：水菜萌\n【角色名】水菜萌：啊，小龙，阿夏。还有凛凛花，欢迎回来"
+      },
+      {
+        "role": "user",
+        "content": "有没有好好听话"
+      },
+      {
+        "role": "assistant",
+        "content": "有的！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】小镇的某个角落\n我看着凛凛花费力抱着的大西瓜，如此想到。\n【角色名】龙司：水菜萌\n【角色名】水菜萌：啊，小龙，阿夏。还有凛凛花，欢迎回来"
+      },
+      {
+        "role": "user",
+        "content": "有没有好好听话"
+      },
+      {
+        "role": "assistant",
+        "content": "有的！"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】小镇的某个角落\n我看着凛凛花费力抱着的大西瓜，如此想到。\n【角色名】龙司：水菜萌\n【角色名】水菜萌：啊，小龙，阿夏。还有凛凛花，欢迎回来"
+      },
+      {
+        "role": "user",
+        "content": "有没有好好听话"
+      },
+      {
+        "role": "assistant",
+        "content": "有的！"
+      }
+    ]
+  }
+]

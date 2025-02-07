@@ -1,0 +1,146 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "什么事？"
+      },
+      {
+        "role": "assistant",
+        "content": "今晚怎么样呢"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "什么事？"
+      },
+      {
+        "role": "assistant",
+        "content": "今晚怎么样呢"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……"
+      },
+      {
+        "role": "assistant",
+        "content": "昨晚夏生先生你似乎睡不着，让我帮助你睡个好觉吧\n请用"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……"
+      },
+      {
+        "role": "assistant",
+        "content": "昨晚夏生先生你似乎睡不着，让我帮助你睡个好觉吧\n请用"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……你这家伙啊，变成这样了还试探我……"
+      },
+      {
+        "role": "assistant",
+        "content": "“NO”啊……真遗憾"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……你这家伙啊，变成这样了还试探我……"
+      },
+      {
+        "role": "assistant",
+        "content": "“NO”啊……真遗憾"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……你这家伙啊，变成这样了还试探我……"
+      },
+      {
+        "role": "assistant",
+        "content": "“NO”啊……真遗憾"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……你这家伙啊，变成这样了还试探我……"
+      },
+      {
+        "role": "assistant",
+        "content": "“NO”啊……真遗憾"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "……你这家伙啊，变成这样了还试探我……"
+      },
+      {
+        "role": "assistant",
+        "content": "“NO”啊……真遗憾"
+      }
+    ]
+  }
+]

@@ -35,9 +35,9 @@ class Config:
     model_name: str = "qwen-max-latest"
 
     # 路径配置
-    input_dir: Path = Path("atri_raw_data")
-    output_dir: Path = Path("processed_data")
-    error_dir: Path = Path("failed_chunks")
+    input_dir: Path = Path("data_prep/atri_raw_data")
+    output_dir: Path = Path("data_prep/processed_data")
+    error_dir: Path = Path("data_prep/failed_chunks")
 
     # 网络参数
     request_timeout: int = 60

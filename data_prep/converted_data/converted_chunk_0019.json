@@ -1,0 +1,66 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "为什么想让我们等一阵呢。"
+      },
+      {
+        "role": "assistant",
+        "content": "因为……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "为什么想让我们等一阵呢。"
+      },
+      {
+        "role": "assistant",
+        "content": "因为……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "为什么想让我们等一阵呢。"
+      },
+      {
+        "role": "assistant",
+        "content": "因为……"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": ""
+      },
+      {
+        "role": "user",
+        "content": "为什么想让我们等一阵呢。"
+      },
+      {
+        "role": "assistant",
+        "content": "因为……"
+      }
+    ]
+  }
+]

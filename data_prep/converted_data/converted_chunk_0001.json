@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】清晨的房间，窗外射入柔和的阳光，有些刺眼。"
+      },
+      {
+        "role": "user",
+        "content": "……能睡着就不错了"
+      },
+      {
+        "role": "assistant",
+        "content": "醒了？你刚才做噩梦咯"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "【场景】清晨的房间，窗外射入柔和的阳光，有些刺眼。"
+      },
+      {
+        "role": "user",
+        "content": "……能睡着就不错了"
+      },
+      {
+        "role": "assistant",
+        "content": "醒了？你刚才做噩梦咯"
+      }
+    ]
+  }
+]
