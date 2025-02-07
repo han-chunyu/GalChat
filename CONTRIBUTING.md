@@ -1,6 +1,3 @@
-以下是按照专业开源项目规范编写的 `CONTRIBUTING.md` 内容：
-
-````markdown
 # GalChat 贡献指南
 
 欢迎来到 GalChat 社区！我们由衷感谢您对项目的关注与支持。在提交贡献前，请仔细阅读以下指南。
@@ -15,6 +12,7 @@
   git clone https://github.com/anka-afk/GalChat.git
   cd GalChat
   ```
+
 ````
 
 - 创建特性分支：
@@ -120,3 +118,4 @@ pip install -r requirements.txt
 ---
 
 感谢您为开源社区做出的贡献！🎉 有任何疑问请联系维护团队：1350989414@qq.com
+````
