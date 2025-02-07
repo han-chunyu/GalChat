@@ -12,9 +12,6 @@
   git clone https://github.com/anka-afk/GalChat.git
   cd GalChat
   ```
-
-````
-
 - 创建特性分支：
   ```bash
   git checkout -b feat/your-feature-name  # 功能开发
@@ -118,4 +115,7 @@ pip install -r requirements.txt
 ---
 
 感谢您为开源社区做出的贡献！🎉 有任何疑问请联系维护团队：1350989414@qq.com
-````
+
+```
+
+```
