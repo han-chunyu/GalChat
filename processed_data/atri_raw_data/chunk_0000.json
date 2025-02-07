@@ -1,0 +1,152 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】黑暗的封闭空间"
+    },
+    {
+      "role": "system",
+      "content": "这颗星球正在沉没—"
+    },
+    {
+      "role": "system",
+      "content": "海平面因不明原因急速上升，海洋吞没了大部分沿海地区，如今也不断蚕食着陆地。"
+    },
+    {
+      "role": "system",
+      "content": "人类的栖息地被迫收缩，处于巅峰状态的科学技术渐渐流失。"
+    },
+    {
+      "role": "system",
+      "content": "这是缓步迈向灭亡的平静时代。"
+    },
+    {
+      "role": "system",
+      "content": "我与他邂逅了"
+    },
+    {
+      "role": "system",
+      "content": "他说自己必须拯救地球—"
+    },
+    {
+      "role": "assistant",
+      "content": "地球也包括我吗……？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "我守望着。"
+    },
+    {
+      "role": "system",
+      "content": "守望着渐渐沉没的地球。"
+    },
+    {
+      "role": "system",
+      "content": "守望着反抗灭亡的宿命，奋力挣扎的人们。"
+    },
+    {
+      "role": "system",
+      "content": "身处无限的孤独之中……"
+    },
+    {
+      "role": "system",
+      "content": "‘时间流逝吧，你是多么的残酷—’"
+    },
+    {
+      "role": "system",
+      "content": "置身于黑暗之中。"
+    },
+    {
+      "role": "system",
+      "content": "黑暗……纯粹的黑暗。在完全封闭的黑暗中，我匍匐着试图逃离此处。"
+    },
+    {
+      "role": "system",
+      "content": "动弹不得。"
+    },
+    {
+      "role": "system",
+      "content": "腿被某种厚重坚硬的物体卡住，完全无法挣脱。"
+    },
+    {
+      "role": "system",
+      "content": "挤压带来的剧痛令我不断喘息。"
+    },
+    {
+      "role": "user_thought",
+      "content": "--谁来……救救我……妈妈。"
+    },
+    {
+      "role": "system",
+      "content": "我拼命将手伸出，但却没有获得任何回应。"
+    },
+    {
+      "role": "user_thought",
+      "content": "--疼……好疼……我的腿……！？"
+    },
+    {
+      "role": "user",
+      "content": "救救我—"
+    },
+    {
+      "role": "system",
+      "content": "忽然苏醒的我看到了低矮的天花板，以及伸向上方的手臂。"
+    },
+    {
+      "role": "system",
+      "content": "我抓了一把空气，接着让手臂自然垂落到床上。"
+    },
+    {
+      "role": "system",
+      "content": "疼痛。"
+    },
+    {
+      "role": "user",
+      "content": "呃啊--！！？",
+      "action": "在床上挣扎"
+    },
+    {
+      "role": "system",
+      "content": "我因右腿传来剧烈的疼痛在床上挣扎。"
+    },
+    {
+      "role": "user",
+      "content": "唔……哈啊，哈啊……唔……",
+      "action": "忍耐疼痛"
+    },
+    {
+      "role": "system",
+      "content": "忍耐了一阵之后，疼痛便消失无踪，仿佛一切都从未发生过。"
+    },
+    {
+      "role": "system",
+      "content": "我精疲力尽地躺在床上调整呼吸。"
+    },
+    {
+      "role": "system",
+      "content": "全身都被冷汗打湿。"
+    },
+    {
+      "role": "user_thought",
+      "content": "……不知不觉睡着了么"
+    },
+    {
+      "role": "system",
+      "content": "我稍稍支起身子，看向先前发痛的右腿。"
+    },
+    {
+      "role": "system",
+      "content": "所看之处却是空无一物。"
+    },
+    {
+      "role": "system",
+      "content": "右腿刚才还传来剧烈疼痛，但我其实早已在八年前失去了它。"
+    },
+    {
+      "role": "system",
+      "content": "不存在的身体部位，却向大脑传送着不应存在的痛觉。"
+    }
+  ]
+}

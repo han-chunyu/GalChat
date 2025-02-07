@@ -1,0 +1,140 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "在既像理科实验又像手工课的氛围中，我们进行着制造发电机的工作。"
+    },
+    {
+      "role": "system",
+      "content": "这期间，龙司一直百无聊赖地坐在教室角落。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：我说，小龙你也来吧。你很擅长这种活吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：啊？麻烦死了，谁要对那小子言听计从啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……而且我一出手，那帮小鬼就没事可做了吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊，也对。小龙你是专业的嘛"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：做好啦！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子B：做得好烂啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子C：给我，我来帮你"
+    },
+    {
+      "role": "system",
+      "content": "孩子们笨拙地制作着零件。"
+    },
+    {
+      "role": "user_thought",
+      "content": "而我只需要发号施令，非常轻松。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我懒散地等了一阵子，孩子们就来向我报告了。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：我做好了，杀手老师！"
+    },
+    {
+      "role": "user",
+      "content": "我看看"
+    },
+    {
+      "role": "system",
+      "content": "我过去看了看……尽管没有完美符合我的指示，但总算是有个大概的雏形。"
+    },
+    {
+      "role": "system",
+      "content": "车轮贴伞布拼出的风车，还有支撑用的底座，以及装在车轴上的马达。"
+    },
+    {
+      "role": "system",
+      "content": "这台风力发电机看起来就像是破烂集合体。"
+    },
+    {
+      "role": "user",
+      "content": "……看起来真是够丑的"
+    },
+    {
+      "role": "system",
+      "content": "我用车推了推车轮，感觉不太流畅，就加了些润滑油。"
+    },
+    {
+      "role": "user",
+      "content": "那就把这玩意搬到楼顶吧"
+    },
+    {
+      "role": "system",
+      "content": "我们来到天台，室外正好刮着风。"
+    },
+    {
+      "role": "system",
+      "content": "我将电线连接到发电机上，并且跟小灯泡接在一起。"
+    },
+    {
+      "role": "system",
+      "content": "我们用的是个有些年头的钨丝白炽灯。或许是因为现在用不上了吧，就放在回收店角落里跟一堆破烂一起低价甩卖。"
+    },
+    {
+      "role": "system",
+      "content": "然后我将挖了个窟窿的纸箱盖住灯泡。"
+    },
+    {
+      "role": "user",
+      "content": "好，开始实验吧"
+    },
+    {
+      "role": "system",
+      "content": "风车开始随风慢慢旋转。"
+    },
+    {
+      "role": "system",
+      "content": "然后……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：啊，亮了！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子B：让我看看！真的亮了啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子C：……"
+    },
+    {
+      "role": "system",
+      "content": "孩子们交替着从小洞往箱子里看，还尝试着调整风车的角度。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：亮了亮了，真的有电啊，好厉害！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子B：是啊，可是……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子C：……只有这点？"
+    }
+  ]
+}

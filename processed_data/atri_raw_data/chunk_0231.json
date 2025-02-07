@@ -1,0 +1,144 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】教室"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：野岛龙司……三十三分勉强及格。这点分数还在我面前说大话，看来有必要管教他一下"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：ATRI……这孩子肯定轻松过关吧。尽管不如夏生，但成绩也是名列前茅。……可惜不是正式的学生"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……哎？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……零分，答案全错"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：而且都像是小孩子乱写的答案……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：怎么回事啊，开玩笑吗……？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：哈啊，哈啊，哈啊……夏生！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：花子老师"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：别用那个名字叫我！夏生他们呢！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：夏生老师他们已经走了。明天才能回来"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：啧……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：发生了什么吗？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：有点事……ATRI的情况怎么样？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：小ATRI？很正常啊。是吧，凛凛花"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯……感觉……她好像和夏生老师吵架了似的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：是吗？我觉得和平时一样啊？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：唔……搞不懂"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……我知道了，谢谢你们"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：小花老师，考试好开心啊！我还想参加"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：都是你平日努力学习的成果啊。有不明白的地方吗？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯，有！我写在笔记本上了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：这样啊，那回去后复习一下吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯，好！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯？那是谁啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：--没见过的男子：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：上次看到的人影果然是你啊，安田"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：好久不见，小佐田小姐"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：你来干什么"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：那个，他是谁啊？ 小花的熟人吗？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……算认识吧，以前发生过一些事"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……你知道ATRI的存在吧。于是就利用了我"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：是啊，我知道，然后就利用了你"
+    }
+  ]
+}

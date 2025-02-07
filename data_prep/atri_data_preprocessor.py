@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 @dataclass
 class Config:
     # API配置
-    api_key: str = "sk-"  # 替换为你的API密钥
+    api_key: str = "sk-56d8e690d1ba4141aa86fbbce2b39ec4"  # 替换为你的API密钥
     base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
     model_name: str = "qwen-max-latest"
 
@@ -310,12 +310,12 @@ async def main():
     if not await processor.test_connection():
         return
 
-    # # 处理文档
-    # for doc_file in config.input_dir.glob("*.docx"):
-    #     await processor.process_document(doc_file)
+    # 处理文档
+    for doc_file in config.input_dir.glob("*.docx"):
+        await processor.process_document(doc_file)
 
     # 测试
-    await processor.test_from_file("test_input.txt")
+    # await processor.test_from_file("test_input.txt")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,102 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "故意装生气，然后又笑了出来的水菜萌的妈妈出现了。她在拎着购物袋。好像是在买晚饭的路上。给人的感觉不愧是水菜萌的母亲，虽然年龄不小，却非常漂亮。"
+    },
+    {
+      "role": "assistant",
+      "content": "阿夏，好久不见。一切都好吗？",
+      "action": "",
+      "traits": "温柔"
+    },
+    {
+      "role": "user",
+      "content": "一切都好。非常感谢您，偶尔会送给我便当吃。承蒙您照顾。"
+    },
+    {
+      "role": "assistant",
+      "content": "没事的，乃音子阿姨去世后你也过得很艰难吧。随时都可以依赖我的。",
+      "action": "",
+      "traits": "关心"
+    },
+    {
+      "role": "assistant",
+      "content": "干脆直接来当我们家的女婿？开玩笑的。",
+      "action": "",
+      "traits": "傲娇"
+    },
+    {
+      "role": "user",
+      "content": "哈哈哈……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：还说直接不当女婿来当阿姨的儿子？"
+    },
+    {
+      "role": "user",
+      "content": "哈哈……哈……"
+    },
+    {
+      "role": "user_thought",
+      "content": "笑不出来。因为阿姨的眼睛不知为何冒着一股认真的光芒。而且阿姨和水菜萌长得非常像，可拥有着一股水菜萌连一厘米都没有（要不就是还没有显露出来）的妖艳。有一种大人的色气，一不小心就会被魅惑，意识就会被带走。"
+    },
+    {
+      "role": "assistant",
+      "content": "呣……感觉夏生先生的身边有危险！",
+      "action": "呆毛如同天线一样刷地突然竖起，然后插进了我和阿姨之间。",
+      "traits": "惊讶"
+    },
+    {
+      "role": "system",
+      "content": "她刚刚一直默默地跟在了我和龙司的身后。"
+    },
+    {
+      "role": "assistant",
+      "content": "不知您是哪里的哪位  请不要让夏生先生烦恼！",
+      "action": "",
+      "traits": "严肃"
+    },
+    {
+      "role": "assistant",
+      "content": "哎呀，你是……小ATRI吧！",
+      "action": "",
+      "traits": "开心"
+    },
+    {
+      "role": "assistant",
+      "content": "我听水菜萌说了，哎呀~~好可爱~~",
+      "action": "",
+      "traits": "温柔"
+    },
+    {
+      "role": "assistant",
+      "content": "啊呜呜，不要来回来去地摸~~",
+      "action": "",
+      "traits": "疑惑"
+    },
+    {
+      "role": "assistant",
+      "content": "小ATRI也来我们家吧。爸爸老说，水菜萌要是有个妹妹的话就不会寂寞了。",
+      "action": "",
+      "traits": "温柔"
+    },
+    {
+      "role": "assistant",
+      "content": "好吗，小ATRI",
+      "action": "",
+      "traits": "温柔"
+    },
+    {
+      "role": "assistant",
+      "content": "我、我可是夏生先生的“脚”，才不会这么轻易地……哈哇哇",
+      "action": "",
+      "traits": "低落"
+    },
+    {
+      "role": "system",
+      "content": "那个ATRI竟然被镇压住了……水菜萌的妈妈恐怖如斯。"
+    }
+  ]
+}

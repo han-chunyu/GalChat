@@ -1,0 +1,132 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】泳池边"
+    },
+    {
+      "role": "user_thought",
+      "content": "失去右腿后直至今日，我也一直在躲避大海和泳池。因为我已经觉得游泳对于我今后的人生是没有必要掌握的技能了。"
+    },
+    {
+      "role": "user",
+      "content": "真是想不到上课竟然要让游泳……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：打捞工作也在做，现在也是在船上生活，不会游泳实在是有点不妙吧"
+    },
+    {
+      "role": "user",
+      "content": "被你戳进心缝里了……"
+    },
+    {
+      "role": "user_thought",
+      "content": "的确，我打算救ATRI结果摔倒，被ATRI抱着扔进海里，都被水溺到过。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：阿夏，一点也不难啊。我来教你"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：我也来帮忙"
+    },
+    {
+      "role": "user",
+      "content": "……你们啊，为什么会有点开心啊？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：哎呀，因为没想到阿夏这种完美的家伙竟然也有弱点"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：我很高兴能帮到阿夏"
+    },
+    {
+      "role": "user",
+      "content": "……知道了。那就试试吧"
+    },
+    {
+      "role": "user_thought",
+      "content": "虽然害怕自己丑态百出闹笑话，不过既然当上了教师代理，这种不学无术的态度就不能成为学生们的榜样了。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：先试着把脸泡进水里吧"
+    },
+    {
+      "role": "user",
+      "content": "这个谁都做得到。别小看我啊水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：那就把脸泡在水里的同时把脚离地浮起来试试"
+    },
+    {
+      "role": "user",
+      "content": "……难度是不是突然提高了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：没有，够低的了吧。我们会看着你做的，试试吧"
+    },
+    {
+      "role": "user",
+      "content": "知道了"
+    },
+    {
+      "role": "system",
+      "content": "我把脸泡进水里，脚离地。身体浮在了水上。"
+    },
+    {
+      "role": "user",
+      "content": "简单啊。你看"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯嗯，很不错啊阿夏"
+    },
+    {
+      "role": "system",
+      "content": "【音效】海浪声"
+    },
+    {
+      "role": "user",
+      "content": "…………"
+    },
+    {
+      "role": "user_thought",
+      "content": "我突然失去平衡呛进水里后，赶快死死抱住了身边的东西。"
+    },
+    {
+      "role": "user",
+      "content": "噗哈，哈啊，哈啊……差点淹死！果然大海好恐怖啊……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯……的确是呢"
+    },
+    {
+      "role": "user",
+      "content": "？ 这是什么"
+    },
+    {
+      "role": "user_thought",
+      "content": "我的脸被一阵柔软的触感所包裹。"
+    },
+    {
+      "role": "user",
+      "content": "难道这个是……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊呜啊呜……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我死死抱住的是水菜萌。"
+    }
+  ]
+}

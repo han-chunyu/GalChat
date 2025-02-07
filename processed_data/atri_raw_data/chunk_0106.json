@@ -1,0 +1,134 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】回忆中的船内"
+    },
+    {
+      "role": "system",
+      "content": "夏生偷偷潜入现在住的那条船内，外婆发现后狠狠臭骂了他一顿。"
+    },
+    {
+      "role": "assistant",
+      "content": "夏生老师当时是个什么样的小孩啊？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "嗯……是个阴沉的孩子。向他搭话的时候，他总是一脸不爽",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "那不是跟现在一样吗",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "不过他很博学，一起玩的时候教了我好多知识",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "跟现在一样啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "一样啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "嗯……",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "我是个阴沉的孩子真是对不起啊"
+    },
+    {
+      "role": "assistant",
+      "content": "不过在这里生活的时候，露出笑容的时间也越来越多了",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "夏生因失去右腿而消沉，在跟水菜萌一起玩的过程中渐渐习惯了单脚的生活。"
+    },
+    {
+      "role": "user_thought",
+      "content": "于是我，重新振作起来的我……"
+    },
+    {
+      "role": "user_thought",
+      "content": "－－我必须拯救地球。"
+    },
+    {
+      "role": "user",
+      "content": "在父亲的门路下参加了研究院的考试。因为有努力学习所以轻松通过了考核"
+    },
+    {
+      "role": "assistant",
+      "content": "你爸呢？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "父亲他……谁知道呢，在某个地方做自己的事吧。大概是在努力完成自己的使命。估计也不知道我在这里造发电机吧"
+    },
+    {
+      "role": "assistant",
+      "content": "这算怎么回事啊，他不是你爸吗？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "也是有这种父子的"
+    },
+    {
+      "role": "user",
+      "content": "总之考试成功通过了，我抱着一腔热血扬言要拯救人类"
+    },
+    {
+      "role": "user",
+      "content": "入学时父亲送了我一样礼物。那是条义足，不是现在这种旧款的破烂货"
+    },
+    {
+      "role": "system",
+      "content": "是一条价格昂贵，能过自由驱使的高性能机械义肢。"
+    },
+    {
+      "role": "system",
+      "content": "当时夏生感动到仿佛重新获得了完整的身体。"
+    },
+    {
+      "role": "user",
+      "content": "我在初中部便崭露头角，升上高中部时已经成绩拔尖。那时连老师都无法在我面前嚣张"
+    },
+    {
+      "role": "assistant",
+      "content": "……感觉都能看到画面了，能想象到你对大人们一脸蔑视的样子",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "……这怎么猜到的啊。"
+    },
+    {
+      "role": "user_thought",
+      "content": "没错，我当时完全看不起不具备专业知识的普通教师，只把他们当成随时可以替换的道具。"
+    }
+  ]
+}

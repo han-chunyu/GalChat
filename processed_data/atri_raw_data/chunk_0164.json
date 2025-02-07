@@ -1,0 +1,132 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】学校屋顶"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：有你的啊，阿夏！所以说，结果如何？"
+    },
+    {
+      "role": "user",
+      "content": "……她没听懂"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：你有好好和她说明白吗？是不是说得很委婉啊"
+    },
+    {
+      "role": "user",
+      "content": "我说了，喜欢她。直球告白"
+    },
+    {
+      "role": "user",
+      "content": "不过大概没听懂。因为ATRI没有恋爱的概念"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……毕竟是仿生人啊"
+    },
+    {
+      "role": "user_thought",
+      "content": "鼓起了十分大的勇气，导致落差也相当大。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：不过你努力了啊！又不是被甩吧？还有机会"
+    },
+    {
+      "role": "user",
+      "content": "希望如此吧……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：今天放学请你搓点东西。最近的报酬也拿到了"
+    },
+    {
+      "role": "system",
+      "content": "前几天，打捞工作顺利结束了。"
+    },
+    {
+      "role": "system",
+      "content": "真的是非常偶然，第二天在我们被冲到的地方发现了沉船的踪迹。"
+    },
+    {
+      "role": "system",
+      "content": "似乎委托人也没有多期待能找到，所以非常高兴，给了我们超出预额的报酬。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：偶尔也想吃点冷饮啊"
+    },
+    {
+      "role": "user",
+      "content": "是啊"
+    },
+    {
+      "role": "system",
+      "content": "我和龙司聊着天，走下屋顶。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：…………"
+    },
+    {
+      "role": "system",
+      "content": "什么事情都没有发生，上午就这么过去了。"
+    },
+    {
+      "role": "system",
+      "content": "中间有凯瑟琳老师负责的第一次音乐课。"
+    },
+    {
+      "role": "system",
+      "content": "把钢琴搬进空教室，并在那里授课，不知怎的初中部和高中部的学生都跟在小学部的屁股后面见习来了。"
+    },
+    {
+      "role": "system",
+      "content": "于是上午结束，到了午休。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：小弟"
+    },
+    {
+      "role": "user",
+      "content": "……你也该改改口了吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：那你先改改对我的口气吧。我都被学生小瞧了"
+    },
+    {
+      "role": "user",
+      "content": "所以说，有什么事"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……看来还是没打算改口啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：姑且打算先道个谢，你不是陪我练钢琴了么"
+    },
+    {
+      "role": "system",
+      "content": "打捞工作结束回来以后又陪凯瑟琳练了钢琴。"
+    },
+    {
+      "role": "system",
+      "content": "我虽说没有厉害到能教人的程度，因为凯瑟琳考取过教师资格证书上过相关的的课程，所以只要复健一下就行了。"
+    },
+    {
+      "role": "user",
+      "content": "孩子们也很开心，教得挺不错的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：不知道你用的是什么口气，总之谢谢你的夸奖"
+    }
+  ]
+}

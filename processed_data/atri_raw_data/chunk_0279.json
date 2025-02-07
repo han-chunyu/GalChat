@@ -1,0 +1,140 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】学校"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：是呢，要说疼的确挺疼的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：大事不好，得去保健室才行！"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：（要是能回收到因为bug导致无法好好控制的无主机器人，政府那边会出赏金）"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：（安田就是以这为目标的赏金猎人）"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：（那家伙却不知从哪得来的消息，知道八千草博士的遗产，引我回收ATRI……）"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：（就算ATRI很危险、也不该交给安田去处理）"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：……我去ATRI那一趟"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：那我也要去！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：你可不行。好好待在学校"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：哎，我想和ATRI玩嘛"
+    },
+    {
+      "role": "system",
+      "content": "【音效】陌生人的声音：唉呀……难道说那个机器人不在这里？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：呃！！？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：哎呀哎呀，想进这学校还挺麻烦的。还以为可以不让她逃掉……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：为什么你会在这……无关人员禁止入内的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：没事，我就是来接人的。来接走逃跑的机器人的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：小花……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：所以说，它在哪里？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：非常可惜现在正值暑假。我可不知道每个学生在哪里干些什么"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：这就头疼了……等也等不来的意思吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：没错。没事就出去。不然我报警了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：花子老师，怎么了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：……是谁啊，那人"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：快回教室！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：好、好的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：……！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：啊，凛凛花！  你这是要去哪！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：我去告诉ATRI她有危险！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：等等，凛凛花！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：正好，把那孩子叫过来"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：叫来以前，我就在这和大家一起等"
+    },
+    {
+      "role": "system",
+      "content": "--别来学校。这是命令。"
+    },
+    {
+      "role": "system",
+      "content": "步履蹒跚的ATRI的脑海里，回响着凯瑟琳说的话。（原文中“蹒跚”写成了“瞒珊”）"
+    }
+  ]
+}

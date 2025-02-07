@@ -1,0 +1,124 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "睡觉时也没有关上的收音机还在勤恳地播报着。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我有一搭没一搭听着不感兴趣的早间新闻，同时给破烂义足做维护工作。"
+    },
+    {
+      "role": "system",
+      "content": "【音效】早间广播：作为引导人类未来的希望之光而早早立项的火箭发射计划，依然遭到市民们的坚决反对……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：这次总能成功发射了吧"
+    },
+    {
+      "role": "user",
+      "content": "……会的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：呵，那就最好咯。要是有放烟花的闲工夫，还不如给我们这些平头百姓的生活想想办法"
+    },
+    {
+      "role": "user",
+      "content": "就算现在得过且过，问题终究还是会爆发。必须开创新的未来"
+    },
+    {
+      "role": "user_thought",
+      "content": "……唉，跟你说这些也没用"
+    },
+    {
+      "role": "user_thought",
+      "content": "我放下腿使劲踩了踩，确认义足的触感。关节的活动稍微顺滑了一些。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：天气不错嘛。完美适合潜水，赶快开始吧？"
+    },
+    {
+      "role": "user",
+      "content": "让我吃个早饭啊"
+    },
+    {
+      "role": "user_thought",
+      "content": "说完我才想起来，早饭已经被她吃光了。"
+    },
+    {
+      "role": "system",
+      "content": "【音效】不知道是谁的声音：上……上午好—"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：阿夏—"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……还在睡吗。就不能装个门铃吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：噢—"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊，阿夏……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……你谁啊！？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：我还想问你呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：那个……我是阿夏的朋友，名叫神白水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：哼，那小子还有朋友啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：请问……姐姐你究竟是……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：我吗？这个嘛……算他的情妇吧？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：情·妇！！？"
+    },
+    {
+      "role": "user",
+      "content": "才不是。只是个非法入室的陌生人"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……？所以……你们到底是什么关系呢……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：只是工作搭档而已"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：阿夏，去上学吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：你转学过来之后就一直没来过学校吧？"
+    },
+    {
+      "role": "system",
+      "content": "在我回答之前，凯瑟琳就先开了口。"
+    }
+  ]
+}

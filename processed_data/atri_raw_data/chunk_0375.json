@@ -1,0 +1,124 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】室内，笔记上出现泪痕"
+    },
+    {
+      "role": "user_thought",
+      "content": "之前的日志里也有几处相同的水渍。这是泪痕。被我告白后，她很难过吗？不对。喜悦时也是会流泪的。"
+    },
+    {
+      "role": "system",
+      "content": "滴答……笔记染上了一朵新的泪痕。"
+    },
+    {
+      "role": "user",
+      "content": "……那时候，ATRI觉得很开心啊。我给她带来了一丝微小的幸福啊。"
+    },
+    {
+      "role": "user_thought",
+      "content": "一念至此，泪水就不禁涌出。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：咦~，阿夏你来了啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊，你怎么了？哎，你怎么哭了"
+    },
+    {
+      "role": "user",
+      "content": "不，我这是……"
+    },
+    {
+      "role": "system",
+      "content": "我急忙擦干眼泪，但一脸的哭相无法掩饰。"
+    },
+    {
+      "role": "user",
+      "content": "我还想问呢，你怎么来了。今天没有社团活动吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯……就像莫名想来学校。"
+    },
+    {
+      "role": "user",
+      "content": "晚上还要聚会吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：倒也没错。可是白天的学校有点不一样"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：我打扰到你了吗……"
+    },
+    {
+      "role": "user",
+      "content": "没有，我没事"
+    },
+    {
+      "role": "user_thought",
+      "content": "我吸吸鼻子，逞强说道。沉浸于感伤中就是纠结过去。而ATRI希望我迈向未来。"
+    },
+    {
+      "role": "user",
+      "content": "（但我办不到啊，ATRI……我没有那么坚强）"
+    },
+    {
+      "role": "system",
+      "content": "我把笔记收进包里，拄着拐杖想要站起，却突然失去了平衡。"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌扶住了差点摔倒的我。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：没事吧？"
+    },
+    {
+      "role": "user",
+      "content": "抱歉……"
+    },
+    {
+      "role": "system",
+      "content": "我靠在她身上道了个歉，水菜萌显得有些意外。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：阿夏，你变了呀"
+    },
+    {
+      "role": "user",
+      "content": "哪变了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……你以前都不会依赖别人吧？"
+    },
+    {
+      "role": "user_thought",
+      "content": "我在研究院时，总觉得所有事情都必须独自解决。一心想着必须靠自己拯救地球。"
+    },
+    {
+      "role": "user",
+      "content": "……就算是一个人做不到的事，我也可以借助别人的帮助来完成。这就是我来这所学校学到的东西"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌听到我的回答，也坚定地说道。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：我会支持你的。虽然办不到像小ATRI那样"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：小ATRI也拜托我了……而且……这也是我的愿望"
+    }
+  ]
+}

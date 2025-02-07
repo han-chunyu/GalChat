@@ -1,0 +1,108 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】海面"
+    },
+    {
+      "role": "system",
+      "content": "那里飘着浮标。是昨天我们过来放下的。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：好嘞，那就开始吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：开始干活啦！"
+    },
+    {
+      "role": "system",
+      "content": "我们开始匆忙准备潜航。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】海底"
+    },
+    {
+      "role": "system",
+      "content": "虽说是潜海，却很暗很安静。潜水艇的座舱狭窄，很有压迫感。"
+    },
+    {
+      "role": "user_thought",
+      "content": "潜了那么多次还是不习惯啊……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我非常担心右脚会不会再度疼痛。"
+    },
+    {
+      "role": "user_thought",
+      "content": "……ATRI就在学校。又不是消失了"
+    },
+    {
+      "role": "system",
+      "content": "狭窄黑暗的封闭空间中弥漫着不安的气氛，这时候消息来了。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：阿夏，怎么样？"
+    },
+    {
+      "role": "user",
+      "content": "……找到类似的房间了。因为屋顶已经被冲朽了，比较容易进"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：寝室在进入玄关的第二个房间。抽屉柜最上层装着我们要拿的东西"
+    },
+    {
+      "role": "user",
+      "content": "知道了"
+    },
+    {
+      "role": "system",
+      "content": "调好压载箱空气后，我向下转向进入了腐朽的房子。"
+    },
+    {
+      "role": "user",
+      "content": "抽屉柜是指这个么……"
+    },
+    {
+      "role": "system",
+      "content": "我用机械手打开了最上面的抽屉。比想象中更容易打开。要是打不开的话，就只能用起重机把柜子吊走了。"
+    },
+    {
+      "role": "system",
+      "content": "虽然里面有各种各样的东西，但是海蛇号的机械手没灵活到能够选出并带走指定的东西。"
+    },
+    {
+      "role": "user_thought",
+      "content": "是不是应该带上ATRI啊……不过很担心并非水中作业用机器人的ATRI频繁潜水会不会出事。况且她今天还有社团活动。"
+    },
+    {
+      "role": "user",
+      "content": "发现目标物品。现在开始上浮"
+    },
+    {
+      "role": "user",
+      "content": "上浮后请先回收委托物品"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：了解。凛凛花,准备好网。要那种钓鱼用的长抄子"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：好嘞！"
+    },
+    {
+      "role": "system",
+      "content": "我切断通信，准备上浮。"
+    },
+    {
+      "role": "system",
+      "content": "潜水艇通过压载箱实现潜水与上浮。平常压载箱里装有空气。下沉的时候就会抽走箱内空气，放入海水，减小浮力。然后潜水艇便能自如下沉。与之相反，抽出海水就能上浮。方法就是，通过把压缩空气装进水箱中，挤出海水。"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】街道上"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：人称·书之迷宫的公主。如何，你的话一百本应该不是事儿吧"
+    },
+    {
+      "role": "user",
+      "content": "我才不读那么多书，的确是个美人，不过印象不太符合……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：什么嘛，本以为终于有能够攻略公主的男人出现了呢"
+    },
+    {
+      "role": "user_thought",
+      "content": "能不能别拿我找乐子啊。"
+    },
+    {
+      "role": "system",
+      "content": "龙司带我去了一个又一个地方。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】日头还高的居酒屋露天坐席"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：人称·酒鬼女王。把居酒屋作为生息地的酒精妖精。宣言与酒共生死的酒仙"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：赢不了一百杯龙舌兰比试的话，就连把她带出居酒屋都做不到……"
+    },
+    {
+      "role": "user",
+      "content": "那没戏了。我还是未成年"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：外表怎么样，很白皙吧？"
+    },
+    {
+      "role": "user",
+      "content": "……气氛倒是有点像……"
+    },
+    {
+      "role": "user_thought",
+      "content": "可我不太愿意相信我少年时代憧憬的女性，竟然长成了个酒鬼女王。"
+    },
+    {
+      "role": "user",
+      "content": "瞳色也不太一样……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：瞳色啊。什么颜色？"
+    },
+    {
+      "role": "user",
+      "content": "红色。深红……应该是吧 非常漂亮，就像红宝石一样美"
+    },
+    {
+      "role": "user_thought",
+      "content": "唯独这个细节，我还清楚地记得。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：深红的瞳色啊"
+    },
+    {
+      "role": "assistant",
+      "content": "……",
+      "action": "沉默",
+      "traits": "疑惑"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：下一个！下一个是命名年轻却拥有“老妈子”的诨名，是副食店长的女儿……"
+    },
+    {
+      "role": "system",
+      "content": "我一个接着一个地看了龙司找的地方。副食店女儿，邮递员，还有郊外农场的女孩。谁都不是我记忆中的那个人。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：湖滨美人鱼都不是么。那我就真的不知道了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……不对，有一个人吧。我姐姐……要是这样的话阿夏就会变成我的弟弟……不对，那应该成姐夫了？"
+    },
+    {
+      "role": "system",
+      "content": "正当龙司困惑地唠叨着我听不懂的话的时候。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌的妈妈：哎呀呀呀，小龙"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：？ 阿姨好"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌的妈妈：才不是阿姨吧。叫姐姐♪"
+    }
+  ]
+}

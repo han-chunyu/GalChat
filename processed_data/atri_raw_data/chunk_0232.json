@@ -1,0 +1,140 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】镇子里"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：你明明已经成功回收了，为什么那个机器人还逍遥自在地生活在镇子里"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：因为拥有者拒绝出售啊。虽然是有期限的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：嗯……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：你以前是老师对吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：现在也是，我已经转行了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：那你应该听说过传闻吧，以前在学校发生的那个事件"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：事件……？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】安田：你调查一下就知道了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：啊，等一下！"
+    },
+    {
+      "role": "system",
+      "content": "（拉着）"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：怎么了，凛凛花？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：不行，别去追他。那个人……好可怕"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：没事的，我就留在这儿"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：不过保险起见，先不要坐小船出去了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯……"
+    },
+    {
+      "role": "system",
+      "content": "【场景】海上"
+    },
+    {
+      "role": "system",
+      "content": "船只乘风破浪，驶向大海。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我们朝着外婆遗留资料中记载的神秘人工岛“伊甸”进发。去伊甸就能解决一切问题，我对此深信不疑……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：幽灵岛在哪，你应该知道吧"
+    },
+    {
+      "role": "user",
+      "content": "只知道个大概"
+    },
+    {
+      "role": "user",
+      "content": "浮体一般都会下锚固定到海底，不然就会随着海水飘走"
+    },
+    {
+      "role": "user",
+      "content": "但伊甸似乎没有固定，就飘荡在海上"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：那就不能停留在同一个地方了吧"
+    },
+    {
+      "role": "user",
+      "content": "没错。但那座岛却能办到，你觉得是怎么回事？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：难道……那座岛是出于自己的意志四处漂流？"
+    },
+    {
+      "role": "user_thought",
+      "content": "龙司说得像是三流鬼故事。我摇摇头。"
+    },
+    {
+      "role": "user",
+      "content": "是因为海流"
+    },
+    {
+      "role": "system",
+      "content": "我把外婆留下的近海海流资料拿给龙司看。"
+    },
+    {
+      "role": "system",
+      "content": "两股巨大海流相交在一点。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：顺着这股海流漂流，然后在这附近碰上另一股，这次在这边……"
+    },
+    {
+      "role": "user",
+      "content": "于是就成了在同一片海域来回漂流的小岛"
+    },
+    {
+      "role": "user_thought",
+      "content": "这应该不是设计之初的意图。因为连外婆也曾迷失了伊甸所在的方位。"
+    }
+  ]
+}

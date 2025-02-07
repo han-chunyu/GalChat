@@ -1,0 +1,129 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "我启动螺旋桨试图后退，但却被下落的钢筋卡住动弹不得。脑海中忽然闪过那时的画面。"
+    },
+    {
+      "role": "user",
+      "content": "又被活埋了……"
+    },
+    {
+      "role": "system",
+      "content": "我全身直冒冷汗，早已失去的右腿又开始发痛。"
+    },
+    {
+      "role": "user",
+      "content": "呃……啊……哈啊，哈啊…………"
+    },
+    {
+      "role": "system",
+      "content": "头顶逼近而来的黑暗让我的精神几近崩溃，此时我的视线透过玻璃与少女交叠在了一起。"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "action": "凝望",
+      "traits": "疑惑"
+    },
+    {
+      "role": "system",
+      "content": "少女似乎完全没有察觉到眼下的危机，只是不可思议地凝望着我。"
+    },
+    {
+      "role": "user_thought",
+      "content": "必须……救她……"
+    },
+    {
+      "role": "system",
+      "content": "我控制机械臂试图将起重机的钩子挂在船身上，但却摸了个空。"
+    },
+    {
+      "role": "user",
+      "content": "……钩子被刚才的撞击震掉了吗"
+    },
+    {
+      "role": "system",
+      "content": "能看到钩子落在了地面上，但却无法用机械臂够到，船身也被钢筋卡住无法移动。"
+    },
+    {
+      "role": "user",
+      "content": "怎么办……呃啊！！？"
+    },
+    {
+      "role": "system",
+      "content": "疼痛与焦虑险些令我失神。这时，少女走出棺柩捡起了落在地上的钩子。"
+    },
+    {
+      "role": "assistant",
+      "content": "……？",
+      "traits": "疑惑"
+    },
+    {
+      "role": "user",
+      "content": "钩子……给我……"
+    },
+    {
+      "role": "system",
+      "content": "少女看着这边歪了歪头，将钩子递到机械臂上。然后我将钩子挂在船身上。"
+    },
+    {
+      "role": "user",
+      "content": "喂……听得到吗！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：'什么事--'"
+    },
+    {
+      "role": "user",
+      "content": "哈啊，哈啊……快，钢索……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：'什么？听不清啊'"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：'怎么了阿夏？发生什么了？'"
+    },
+    {
+      "role": "user",
+      "content": "拉钢索，全速！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：'喂喂喂，这样做的话……'"
+    },
+    {
+      "role": "user_thought",
+      "content": "必须抓紧时间，要是完全崩塌就逃不出去了。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：'我、我知道了！嘿！'"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：'喂，蠢丫头！！？你搞什么啊！！！！'"
+    },
+    {
+      "role": "system",
+      "content": "我操纵机械臂抓住了少女。"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "action": "看向",
+      "traits": "安心"
+    },
+    {
+      "role": "system",
+      "content": "她被机械臂抓住也丝毫不慌张，而是透过窗户看向我。"
+    },
+    {
+      "role": "user_thought",
+      "content": "她……都不感到害怕吗……？甚至还表现得很安心……就不会感到呼吸困难吗？"
+    }
+  ]
+}

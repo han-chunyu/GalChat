@@ -1,0 +1,108 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】黄昏的海边"
+    },
+    {
+      "role": "user_thought",
+      "content": "明明自己也低落着的，龙司还是在意着我。"
+    },
+    {
+      "role": "user",
+      "content": "不知道"
+    },
+    {
+      "role": "user_thought",
+      "content": "失去ATRI后会有多孤独，我根本想不出来。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：龙司】……我其实一直就在考虑了，高中毕业后，跟我去开家公司如何？"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：龙司】这之后打捞间的工作会多起来的。光潜水艇的话实在是没底，深潜的装备也需要准备……"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：龙司】把水菜萌和凛凛花也叫上，大家一起干嘛。社长就你了"
+    },
+    {
+      "role": "user",
+      "content": "龙司……"
+    },
+    {
+      "role": "user_thought",
+      "content": "对于在不远的将来会孤苦伶仃的我来说，这是个相当让人高兴的提案。"
+    },
+    {
+      "role": "user",
+      "content": "……让我考虑一下"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：龙司】给我秒答嘛~。然后我就会哭出来的"
+    },
+    {
+      "role": "system",
+      "content": "龙司笑着戳了戳我的肩膀。"
+    },
+    {
+      "role": "user",
+      "content": "真是受你照顾了。能和我这种人做朋友"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：龙司】别这么见外嘛。受照顾的可是我"
+    },
+    {
+      "role": "system",
+      "content": "靠着龙司的肩膀，我们向着商店街那边走去。"
+    },
+    {
+      "role": "system",
+      "content": "告别龙司后，我就在镇子上的图书馆里找着和ATRI同型号的仿生人的书面资料。"
+    },
+    {
+      "role": "user_thought",
+      "content": "外婆并不是她的主人，而ATRI是在30年前制造出来的，在和我相遇8年前为止的时间里到底在哪，在做什么，我是完全不知道。（原文中“外婆”写成了“祖母”）"
+    },
+    {
+      "role": "user_thought",
+      "content": "这样的话，应该去寻找ATRI自身的起源。"
+    },
+    {
+      "role": "user_thought",
+      "content": "--我到底是什么呢……"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "user_thought",
+      "content": "但是，因为在仿生人里这个系列都挺冷门的，导致找不到什么书籍。看来只能挨个从记载上的情报中寻找了。"
+    },
+    {
+      "role": "user_thought",
+      "content": "再加上我腿脚不便的原因，等到了学校已经是黄昏时分了。走到学校花了不少力气。"
+    },
+    {
+      "role": "user",
+      "content": "ATRI那家伙，还在吗"
+    },
+    {
+      "role": "user_thought",
+      "content": "既然跟她说“我回头就来”了，ATRI肯定会等着我的吧。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名：水菜萌】啊，是阿夏"
+    },
+    {
+      "role": "user",
+      "content": "社团活动已经结束了吗"
+    }
+  ]
+}

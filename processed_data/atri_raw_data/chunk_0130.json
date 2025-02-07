@@ -1,0 +1,124 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "只要没和ATRI牵手，我的右脚就会突然感觉到一阵违和。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】船上"
+    },
+    {
+      "role": "system",
+      "content": "龙司开动了船。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我有些疲劳，坐着休息。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：那我们就快点回去吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：我说啊，阿夏"
+    },
+    {
+      "role": "user",
+      "content": "怎么"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：水菜萌那家伙，是喜欢你吧"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "user",
+      "content": "冷不丁说这个干嘛"
+    },
+    {
+      "role": "user_thought",
+      "content": "我隐藏住被唐突话题动摇的表情，摆出一副冷酷面。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：你真是不会敷衍啊，脸红透了"
+    },
+    {
+      "role": "system",
+      "content": "龙司一脸坏笑，我嘀咕了一声“啰嗦”后，把脸别了过去。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：完全没察觉到吗？"
+    },
+    {
+      "role": "user",
+      "content": "……倒不是"
+    },
+    {
+      "role": "user_thought",
+      "content": "我当然察觉到了，水菜萌对我抱有特别亲切的感情。只是不知道是什么种类的感情。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：谁都能看得一清二楚啊。谁叫她喜形于色。对吧，凛凛花"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】凛凛花：……小水菜萌看夏生老师的眼神，完全就是恋爱少女的眼神"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】凛凛花：我在图书室的书里面看到过所以知道呢"
+    },
+    {
+      "role": "user",
+      "content": "我倒是觉得龙司挺配的"
+    },
+    {
+      "role": "user_thought",
+      "content": "本以为龙司才是和水菜萌有这层关系的人呢。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：啊，没跟你说过啊。我和水菜萌是堂兄妹"
+    },
+    {
+      "role": "user_thought",
+      "content": "头一次听说。"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：所以说别顾虑。话说，她太天真无邪了，都不会怀疑人的吧？"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：我很害怕她被坏男人给轻易拐走。和你在一起我挺放心的"
+    },
+    {
+      "role": "user_thought",
+      "content": "别看水菜萌这样，她是个会果断拒绝讨厌的事情的女孩，所以不至于那么容易遇到危险，他的担心应该只是处于对家人的操心吧。"
+    },
+    {
+      "role": "user",
+      "content": "就算你这么说……"
+    },
+    {
+      "role": "system",
+      "content": "【角色名】龙司：水菜萌不行吗？亲戚的我来说可能有点自卖自夸，她很可爱吧。还是当地的名门之后，家境阔绰"
+    },
+    {
+      "role": "user",
+      "content": "嗯……的确"
+    },
+    {
+      "role": "user_thought",
+      "content": "可爱是毫无疑问的，性格也很好。连对待我这种性格扭曲到自己都会厌恶的人，她都不会带有一丝的厌恶。"
+    }
+  ]
+}

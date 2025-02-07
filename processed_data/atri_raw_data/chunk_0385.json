@@ -1,0 +1,119 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】伊甸实验设施"
+    },
+    {
+      "role": "system",
+      "content": "这座岛作为超巨大浮体的模板，已经充分完成了自己的使命，现在因为老化即将被废弃。"
+    },
+    {
+      "role": "system",
+      "content": "由于诞生在核聚变炉实用化之前，这里的发电方式以波力发电为主，能源循环效率低下。"
+    },
+    {
+      "role": "system",
+      "content": "岛上搭载的电脑硬件也已经老化，没有费用进行维修。"
+    },
+    {
+      "role": "user_thought",
+      "content": "它和我的肉体一样完成了使命，将要沉入海中。"
+    },
+    {
+      "role": "user_thought",
+      "content": "但没有人知道这里才是真正的技术奇点。"
+    },
+    {
+      "role": "user_thought",
+      "content": "因为我一直没有将这件事公之于众，这里沉睡着最初的、唯一拥有心灵的机器人的灵魂。"
+    },
+    {
+      "role": "user",
+      "content": "ATRI……",
+      "action": "轻声呼唤"
+    },
+    {
+      "role": "system",
+      "content": "深邃的大海泛起小小的波澜。"
+    },
+    {
+      "role": "user_thought",
+      "content": "ATRI就是消失在这片海洋中。"
+    },
+    {
+      "role": "user_thought",
+      "content": "个体的存在与全体融合，无法分辨哪一部分才是她。"
+    },
+    {
+      "role": "user_thought",
+      "content": "就像是融化在红茶中的砂糖。"
+    },
+    {
+      "role": "user_thought",
+      "content": "融为一体之后，这一切既是ATRI，亦不是ATRI。"
+    },
+    {
+      "role": "user",
+      "content": "ATRI……！",
+      "action": "用力呼喊"
+    },
+    {
+      "role": "system",
+      "content": "我潜向飘荡着信息的深海底部。"
+    },
+    {
+      "role": "user_thought",
+      "content": "要从海底中打捞出ATRI。"
+    },
+    {
+      "role": "user_thought",
+      "content": "一个一个将ATRI融化在海中的细胞拾回。"
+    },
+    {
+      "role": "user_thought",
+      "content": "工作量无比庞大。"
+    },
+    {
+      "role": "user_thought",
+      "content": "但光是收集那些曾经属于ATRI的信息碎片，是无法让她再度归来的。"
+    },
+    {
+      "role": "user_thought",
+      "content": "那只是没有灵魂的信息集合而已。"
+    },
+    {
+      "role": "system",
+      "content": "我看到了水底有一栋房子。"
+    },
+    {
+      "role": "user_thought",
+      "content": "这幅景象是从我脑海中生成的吗，或者是属于ATRI的记忆呢……"
+    },
+    {
+      "role": "user_thought",
+      "content": "恐怕是我的记忆吧。"
+    },
+    {
+      "role": "user_thought",
+      "content": "为了让我更清晰地认知电脑空间，生成了这副景象。"
+    },
+    {
+      "role": "user_thought",
+      "content": "那就只有照这样继续了。"
+    },
+    {
+      "role": "system",
+      "content": "不知不觉，我乘上了潜水艇海蛇号。"
+    },
+    {
+      "role": "user",
+      "content": "是仓库啊……ATRI一定在里面",
+      "action": "自言自语"
+    },
+    {
+      "role": "system",
+      "content": "我驾驶着潜水艇在昏暗的仓库中前进。"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】学校走廊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：真的可以吗？就这样让ATRI亲把夏生抢走。他可正合适当神白家的入赘女婿人选哦"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：冷、冷不丁说什么呢。我没说喜欢阿夏……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：诚实一点。好歹要去告白，不然之后会后悔一辈子的哦~。不听老人言吃亏在眼前"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……我才不用呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：喔，凯瑟琳老师"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：下午好，花子老师"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：下午好。社团活动？真有干劲呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：……竟然没有说“别用这个名字叫我”这句话"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：……是真的哎"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：凛凛花怎么了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：刚刚还在这附近玩着的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：刚才还闹别扭说没带她去打捞间呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……不去为好"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：为什么呢？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】洋子：……奇怪的凯瑟琳。最近都有点奇怪吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……除非能够判断ATRI不具危险性，不然绝不能让她接近孩子们"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：我并没有做错事……"
+    },
+    {
+      "role": "system",
+      "content": "【音效】哒哒哒的脚步声"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：啊，小花老师！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：喂，凛凛花，别在走廊上跑"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：哎呀，是这样！我毛手毛脚的容易忘事"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：这么急是去哪？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：那个呢，是去ATRI那！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：不行哦，暂时禁止和ATRI见面。昨天不也说了吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：为什么？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……她说不定很危险的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：就是啊，相当危险啊！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：我正打算告诉她，最近有怪家伙盯上她了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……"
+    },
+    {
+      "role": "system",
+      "content": "（……我没告诉夏生他们有关安田的情报。本来该警告的）",
+      "action": "沉思"
+    },
+    {
+      "role": "system",
+      "content": "（或许是心里的某处正在希望着安田能够排除掉ATRI吧……）",
+      "action": "内心纠结"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：怎么了小花……哪里疼吗？"
+    }
+  ]
+}

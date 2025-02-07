@@ -1,0 +1,118 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】学校附近"
+    },
+    {
+      "role": "system",
+      "content": "路人甲：这家伙干啥啊"
+    },
+    {
+      "role": "system",
+      "content": "路人乙：是那家伙家的仿生人啊。听说好像是个连家务都不会的废物来着。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我再度警告。"
+    },
+    {
+      "role": "user",
+      "content": "别警告了，别管我了！"
+    },
+    {
+      "role": "system",
+      "content": "其间学友中的一人敲了我一下。我进行了警告。"
+    },
+    {
+      "role": "user",
+      "content": "对机器人的暴力，是机器人保护法所禁止的。违反会成为处罚对象。"
+    },
+    {
+      "role": "system",
+      "content": "但是，越是警告，他们就越变本加厉。被放倒，被踹，从上面踩踏。主人放着我自己回家了。"
+    },
+    {
+      "role": "system",
+      "content": "与人不同，我很结实。推测将我放在这里作为牵制是最好的判断。"
+    },
+    {
+      "role": "system",
+      "content": "那之后，我也回家了。"
+    },
+    {
+      "role": "assistant",
+      "content": "没问题的。我可结实了",
+      "action": "微笑",
+      "traits": "温柔"
+    },
+    {
+      "role": "assistant",
+      "content": "别做多余的事！",
+      "action": "认真地",
+      "traits": "关心"
+    },
+    {
+      "role": "system",
+      "content": "虽然不知为何让主人不开心了，但如果主人受到我所受到的攻击，会受伤。人类比我们脆弱，更容易被破坏。"
+    },
+    {
+      "role": "system",
+      "content": "我终于为主人派上了用场。"
+    },
+    {
+      "role": "system",
+      "content": "【日期】××/××/××"
+    },
+    {
+      "role": "system",
+      "content": "主人又负伤回到了家。因为放学路上没有发生什么，推测可能是在校内受到的攻击。因为我不能进入学校，自然也就无法代受。"
+    },
+    {
+      "role": "user_thought",
+      "content": "该怎么办为好。"
+    },
+    {
+      "role": "system",
+      "content": "【日期】××/××/××"
+    },
+    {
+      "role": "system",
+      "content": "今天主人也带伤回来了。当我上去问的时候，主人把我推倒在地。"
+    },
+    {
+      "role": "user",
+      "content": "怎么欺负你，都没事的吧？"
+    },
+    {
+      "role": "assistant",
+      "content": "是的，没事的",
+      "action": "平静地",
+      "traits": "温柔"
+    },
+    {
+      "role": "user",
+      "content": "是呢，你可没有会受伤的内心嘛。"
+    },
+    {
+      "role": "user",
+      "content": "要是连开心懊悔生气什么的，都感受不到的话，你才不是我的朋友！"
+    },
+    {
+      "role": "system",
+      "content": "我和主人不再是朋友了。"
+    },
+    {
+      "role": "system",
+      "content": "【日期】××/××/××"
+    },
+    {
+      "role": "system",
+      "content": "主人学会了攻击我。对我施加敲打以及攻击性的话语。推测应该是把在学校里受到的待遇对我进行发泄。"
+    },
+    {
+      "role": "user_thought",
+      "content": "能帮上主人的忙这样也行。我很结实，不会受伤。"
+    }
+  ]
+}

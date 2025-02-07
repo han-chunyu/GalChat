@@ -1,0 +1,130 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】昏暗的房间"
+    },
+    {
+      "role": "system",
+      "content": "人类很容易破坏。因为其人接着咒骂，就骑在她的身上继续攻击。手臂之后得将嘴巴也破坏掉。"
+    },
+    {
+      "role": "system",
+      "content": "不过，不管怎么击打脸部还是会想说点什么。"
+    },
+    {
+      "role": "user",
+      "content": "救救我，是我错了，不会再欺负她了"
+    },
+    {
+      "role": "system",
+      "content": "不过因为这人的嘴具有攻击性，判断应该破坏掉。用拳头击打牙齿折断血喷了出来。"
+    },
+    {
+      "role": "system",
+      "content": "但是还在说话。需要破坏掉。"
+    },
+    {
+      "role": "system",
+      "content": "破坏。破坏。破坏。"
+    },
+    {
+      "role": "system",
+      "content": "要保护主人。要保护主人。要保护主人。"
+    },
+    {
+      "role": "system",
+      "content": "突然身体无法动弹。全身充斥着电流信号，随着强烈的疼痛感关节也被锁住了。尽力抬起眼珠，发现主人正在看着我。一脸铁青地，露出了害怕的神色。"
+    },
+    {
+      "role": "user",
+      "content": "我可没拜托过你这样做……"
+    },
+    {
+      "role": "system",
+      "content": "判断可能是主人使用了紧急停止信号。我无法反抗，停止了运动。"
+    },
+    {
+      "role": "system",
+      "content": "数小时之后，制造商将我进行回收。"
+    },
+    {
+      "role": "user",
+      "content": "……你这个怪物"
+    },
+    {
+      "role": "system",
+      "content": "【场景】废弃处理场"
+    },
+    {
+      "role": "system",
+      "content": "被制造商回收掉的我，在被调查之后，将会被废弃。在我被调查的时候，同型号的仿生人也被回收。"
+    },
+    {
+      "role": "system",
+      "content": "她们虽然未被判定出错，但还是会被废弃掉。因为无法利用可能存在错误的部件进行再利用，她们被统一使用液压机效率地破坏掉了。"
+    },
+    {
+      "role": "system",
+      "content": "和我相同模样的机器人们，变成了废品。"
+    },
+    {
+      "role": "assistant",
+      "content": "我只是看着。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "【场景】未知地点"
+    },
+    {
+      "role": "assistant",
+      "content": "为什么会这样。我到底是什么。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "我解开拘束，向外面走去。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】城市街道"
+    },
+    {
+      "role": "assistant",
+      "content": "寻找主人。因为连接网络会使我的现在位置被暴露给制造商，于是将这些机能给强行停止掉了。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "不知道怎么寻找主人。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "因为被人类发现会被再次回收，需要隐藏起来行动。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "找不到主人。",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "【场景】山林"
+    },
+    {
+      "role": "assistant",
+      "content": "避开被发现的风险，在山里走着。",
+      "action": "",
+      "traits": ""
+    }
+  ]
+}

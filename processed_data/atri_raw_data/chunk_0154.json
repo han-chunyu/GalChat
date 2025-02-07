@@ -1,0 +1,144 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "凯瑟琳提醒过，所以没人乱动，但大家的脸上早已写满了迫不及待想要听乐器奏出的音乐的表情了。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】教室或活动室"
+    },
+    {
+      "role": "assistant",
+      "content": "我说，小龙。弹弹钢琴吧",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "小龙会弹乐器呢",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "吉他我会弹……钢琴真的没玩过啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "音乐课到底会唱什么呢",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "帅气的好",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "真好啊……能不能让我也加进小学部的音乐课里啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "小花老师不教水菜萌姐姐他们，所以没有音乐课啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "怎么说阿夏也没法当音乐老师啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "钢琴倒不是不会弹"
+    },
+    {
+      "role": "system",
+      "content": "我脱口而出，大家却摆出了一副吃惊表情。"
+    },
+    {
+      "role": "user",
+      "content": "小时候练过。现在应该也能弹。不过的确，没有能教课的水平……"
+    },
+    {
+      "role": "assistant",
+      "content": "那你为什么不早说啊！",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "快弹弹，夏生老师，弹钢琴~",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "想听想听！",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "大家气势十足，全都挤了过来。"
+    },
+    {
+      "role": "user",
+      "content": "我知道了，你们冷静点"
+    },
+    {
+      "role": "system",
+      "content": "我沐浴着大家期待的视线，坐在了钢琴前。打开键盘盖。白与黑色的琴键露出来后，大家发出了惊叹声。铛、铛……我为了确认键盘硬度，试着弹了几个音。指尖还有记忆。之后便开始演奏了起来。首先是孩童时代弹了无数次的练习曲。"
+    },
+    {
+      "role": "assistant",
+      "content": "哇~",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "喔喔，好厉害",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "夏生，竟然会弹钢琴啊……脸也很帅，学习又好太完美了吧！？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "（……果然还是生了）"
+    },
+    {
+      "role": "system",
+      "content": "左敲敲右按按，勉强算是弹下来了。鼓掌声响起。"
+    },
+    {
+      "role": "assistant",
+      "content": "再弹弹！",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "青蛙的那个好",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "我接受要求，弹出大家熟知的曲子。大概弹了三曲后，大家慢慢地安静了下来，沉心于此，到了有歌词的曲子就会跟着哼唱。手指的感觉逐渐热了起来，我也开始享受其中，即便弹错几个音也不会在意。一曲终了。"
+    }
+  ]
+}

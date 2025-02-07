@@ -1,0 +1,144 @@
+{
+  "dialogues": [
+    {
+      "role": "user_thought",
+      "content": "这一定是我上辈子修来的福分。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】某个室内场景，气氛温馨"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花一脸不解地盯着我的脸看。"
+    },
+    {
+      "role": "system",
+      "content": "【角色凛凛花】夏生先生……平常的杀手一样的眼神没有了。发生什么了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】别说出来啊。阿夏可是很纯情的"
+    },
+    {
+      "role": "system",
+      "content": "【角色凛凛花】纯情么。夏生老师真可爱啊"
+    },
+    {
+      "role": "user_thought",
+      "content": "龙司时不时地会说我可爱，导致凛凛花也跟着鹦鹉学舌了。"
+    },
+    {
+      "role": "user",
+      "content": "水菜萌那家伙，现在肯定是在给你做菜呢"
+    },
+    {
+      "role": "user",
+      "content": "不会吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】要不要赌赌看。要是没做的话，我就把除性命以外最为重要的吉他送给你"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】好期待啊，阿夏"
+    },
+    {
+      "role": "user",
+      "content": "别拿我开涮啊，混蛋……"
+    },
+    {
+      "role": "system",
+      "content": "委托人的富田爷爷拿到委托的东西以后流着泪一次又一次地道谢。"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】谢谢你，小龙"
+    },
+    {
+      "role": "system",
+      "content": "表是防水的，即便沉入海底多少年也没有受损，秒表还在正确地记录着时间。"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】这个表是我爷爷的遗物……。就是沉进海里，一直不知道怎么样了"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】真是谢谢你了，小龙"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】别谢我。捞起来的是阿夏"
+    },
+    {
+      "role": "user",
+      "content": "您好……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我不太喜欢这种气氛，胆怯了起来。"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】难道你就是学者先生？"
+    },
+    {
+      "role": "user",
+      "content": "学者先生？"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】没错。造出发电机点亮学校的，也是这位阿夏"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】是吗是吗，小哥你就是啊"
+    },
+    {
+      "role": "user_thought",
+      "content": "学者老师说的似乎是我。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我被双手合十，朝拜了无数次。"
+    },
+    {
+      "role": "system",
+      "content": "【角色凛凛花】我也帮忙了来着。这是大家造的"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】是吗是吗"
+    },
+    {
+      "role": "system",
+      "content": "富田把打捞费，连带着一个大西瓜都送给了我们。"
+    },
+    {
+      "role": "system",
+      "content": "【角色凛凛花】哦哦哦--，好大哎----！"
+    },
+    {
+      "role": "system",
+      "content": "【角色龙司】太客气了，富田爷爷"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】今年收成好，不用客气"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】话说学者"
+    },
+    {
+      "role": "user",
+      "content": "您说"
+    },
+    {
+      "role": "system",
+      "content": "【角色富田】以您的能力，能不能给我们家也弄一台发电机啊。没有电的话，怪不方便的"
+    }
+  ]
+}

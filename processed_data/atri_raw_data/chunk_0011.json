@@ -1,0 +1,116 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】深海之中"
+    },
+    {
+      "role": "system",
+      "content": "少女：（……）"
+    },
+    {
+      "role": "user_thought",
+      "content": "于是先前渐渐坠入黑暗的生存欲望再次焕发活力，占据了我的脑海。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（我还不想死--）"
+    },
+    {
+      "role": "system",
+      "content": "我失去了一切，再次回到这个城镇。以为自己已经没有活下去的意义。即便如此，我还是不可思议地产生了对生存的渴望。我可真是贪婪。但……果然还是无法挽回了。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（抱歉，把你也卷进来了）如果不是为了救我，她还能继续活下去的。即便让我短暂地延续了生命，以这条腿还是无法游上水面。"
+    },
+    {
+      "role": "system",
+      "content": "少女：（咕嘟咕嘟咕嘟咕嘟）"
+    },
+    {
+      "role": "system",
+      "content": "少女似乎有话要说，嘴里吐出大团的气泡。"
+    },
+    {
+      "role": "system",
+      "content": "少女：（----！！）"
+    },
+    {
+      "role": "system",
+      "content": "她似乎觉得这样很浪费，连忙捂住嘴然后再次向我口中输送空气，同时用手指向上方。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（……？？）"
+    },
+    {
+      "role": "system",
+      "content": "光芒之中降下了一条绳索。仿佛是从天国垂向地狱的“蜘蛛丝”。一根通向未来的纤细丝线。"
+    },
+    {
+      "role": "system",
+      "content": "我一手抓紧绳索，一手紧紧抱住少女。"
+    },
+    {
+      "role": "user",
+      "content": "哈啊、哈啊、哈啊……哈啊……"
+    },
+    {
+      "role": "system",
+      "content": "我平躺在船上，自由呼吸的幸福感充斥胸膛。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】海面之上"
+    },
+    {
+      "role": "system",
+      "content": "【音效】海浪声"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：太好了~~！我还以为阿夏死了呢~~"
+    },
+    {
+      "role": "user",
+      "content": "哈啊，哈啊……多谢了，水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：呜呜……不，不是我救的你"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：看紧债务人可是我的工作"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳拿着绳子冲我笑道。要是平时我估计会心里冒火，但现在只想老老实实感谢催债人的职业素养。"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：话说回来，这小姑娘是怎么回事？"
+    },
+    {
+      "role": "system",
+      "content": "浑身湿透的少女端坐在我身旁。她的手轻轻拉扯着我的衣角。仿佛在提醒我不要再落入海中。"
+    },
+    {
+      "role": "assistant",
+      "content": "……",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "也要谢谢你"
+    },
+    {
+      "role": "assistant",
+      "content": "不必，我只是尽了自己的职责",
+      "action": "",
+      "traits": ""
+    }
+  ]
+}

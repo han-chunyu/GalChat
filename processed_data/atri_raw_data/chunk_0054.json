@@ -1,0 +1,108 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】室内，餐后对话"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：……其实煎蛋卷根本不好吃吗？"
+    },
+    {
+      "role": "user_thought",
+      "content": "怎么先想到煎蛋卷去了啊。"
+    },
+    {
+      "role": "user",
+      "content": "是真的很好吃，替我向阿姨道个谢"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：真的？我知道了，会转达给她的"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：还有加汤汁的做法呢，不过太难了所以今天没有做……"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "action": "嚼嚼",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "action": "一脸怜悯地看着水菜萌",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：？？啊"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：真是的~~，阿夏~~"
+    },
+    {
+      "role": "user",
+      "content": "不，刚才这应该怪你吧"
+    },
+    {
+      "role": "user",
+      "content": "停办学校这种事情，靠我们商量也没用吧。这是由大人们决定的啊"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：嗯……虽然是这样没错……"
+    },
+    {
+      "role": "system",
+      "content": "停办学校是大人们下的决定。就算孩子们希望学校保留下来，也是不可能成功的。"
+    },
+    {
+      "role": "user_thought",
+      "content": "这座城镇已经被政府抛弃了。证据就是供电始终没有恢复"
+    },
+    {
+      "role": "system",
+      "content": "【场景】黄昏时分，透过窗户望向城镇"
+    },
+    {
+      "role": "user_thought",
+      "content": "我透过窗户望向城镇，天色已经暗了下来，但镇上却没有一处灯光。海平面上升时，海水覆盖了低海拔的地区，这座城镇被隔绝成了孤岛。当时供电塔被泥石流冲倒，各处都遭受到了毁灭性的灾害。自那以来，这片区域就一直是停电状态。在国家角度看来，应该是想让居民放弃这片没有未来的土地，赶紧移居到内陆地区去吧。"
+    },
+    {
+      "role": "user",
+      "content": "学校没了会很难办吗？"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：……应该要转学到其他地区的学校"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：但是小孩子可能就没法上学了。而且也有家庭内部的问题……"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：我也是……因为不能从自家上学了，大概也会……"
+    },
+    {
+      "role": "user",
+      "content": "镇上没有其他学校了吗"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌静静地点了点头。"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：小学、初中，还有另一所高中，全部都沉没了"
+    },
+    {
+      "role": "user_thought",
+      "content": "如果要转学到岛外的学校，就必须搬家或者找其他地方寄宿。但如今宜居的土地越来越少，这些都不是能轻松解决的事。"
+    }
+  ]
+}

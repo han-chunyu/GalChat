@@ -1,0 +1,122 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】室内，电视播放着新闻"
+    },
+    {
+      "role": "system",
+      "content": "电视：伊甸的运行将在明天结束"
+    },
+    {
+      "role": "system",
+      "content": "电视：伊甸作为浮体移居构想的起点，完成了自己的使命，现在已经不再使用"
+    },
+    {
+      "role": "system",
+      "content": "电视：由于设备老化已经禁止外人入内，再利用也很困难，因此将于明日沉入海中"
+    },
+    {
+      "role": "user",
+      "content": "…………"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：……真怀念啊"
+    },
+    {
+      "role": "system",
+      "content": "妻子感慨万千地说道。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：她还在那里吗"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我目不转睛看着眼前的影像，妻子对我抛以温柔的视线。"
+    },
+    {
+      "role": "user",
+      "content": "水菜萌……谢谢你支持我到今天"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：……"
+    },
+    {
+      "role": "user_thought",
+      "content": "妻子听到我时隔数十年又叫了她的名字，感到有些惊讶和害羞。然后想闹别扭似的鼓起了脸颊。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：明明一直都叫“你”呀，“孩子他妈”呀，这种时候叫名字太坏了吧……",
+      "action": "鼓起脸颊",
+      "traits": "傲娇"
+    },
+    {
+      "role": "user",
+      "content": "因为……这是最后一次了……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：不用顾虑我。在这六十年间，她一直都待在你的内心深处吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：但这就是我的幸福。发自内心珍惜她的人，不只是你一个"
+    },
+    {
+      "role": "user",
+      "content": "……这样啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：……你要去见她吧"
+    },
+    {
+      "role": "user",
+      "content": "我们约好了……就剩一天了……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我的身体被病魔纠缠了数年，医生说我何时驾鹤西去都不奇怪。虽然可以改造身体延长寿命，但我已经活够了。自从患病之后，我就是为了迎来这一刻才坚持到现在。"
+    },
+    {
+      "role": "user",
+      "content": "心……把线路给我接上……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】心：遵命"
+    },
+    {
+      "role": "user_thought",
+      "content": "我的意识连接到了网络上。我的一部分大脑已经电脑化了，这部分技术还没有普及给一般民众。这是以我自己为实验体的技术，距离实用化还有一段距离。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】心：距离潜入还有10秒。9……8……7"
+    },
+    {
+      "role": "user",
+      "content": "……那我走了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】妻：一路顺风，阿夏。替我向小ATRI问好"
+    },
+    {
+      "role": "system",
+      "content": "【音效】樱花随风飘舞"
+    },
+    {
+      "role": "system",
+      "content": "我的意识跳出身体，飞向浩瀚广阔的电脑空间之海—"
+    }
+  ]
+}

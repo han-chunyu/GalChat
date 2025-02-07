@@ -1,0 +1,84 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】隧道坍塌事故现场，黄昏时分"
+    },
+    {
+      "role": "system",
+      "content": "确认到大部分人类已经失去生命体征。主人还活着，但已危在旦夕。留下命令之后，主人死亡。"
+    },
+    {
+      "role": "user_thought",
+      "content": "果然ATRI是没有心的吗。"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "user_thought",
+      "content": "这个痕迹是……我在那里，发现了某种痕迹。再翻翻其他的页。"
+    },
+    {
+      "role": "user",
+      "content": "这里也有……这里也是……"
+    },
+    {
+      "role": "system",
+      "content": "迹象很淡，却存在着一些与平淡的陈述内容所不相符的某种记号……"
+    },
+    {
+      "role": "system",
+      "content": "【音效】凛凛花的呼喊声从远处传来"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：喂--------夏生老师------！！！"
+    },
+    {
+      "role": "user",
+      "content": "？凛凛花吗？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：夏生老师----------！！！！快出来----------！！！！"
+    },
+    {
+      "role": "user",
+      "content": "怎么了，吵死了"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花虽然一直很吵，但她的双眼的泪水反应了她的拼命样。"
+    },
+    {
+      "role": "user",
+      "content": "怎么了，发生什么事了？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：学校里来了个奇怪的男人……吵着要我们把ATRI交出来！"
+    },
+    {
+      "role": "user",
+      "content": "奇怪的男人？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：那家伙，以前就盯上了ATRI……"
+    },
+    {
+      "role": "user_thought",
+      "content": "那个男人吗……？当时他好像是在阴影里看ATRI来着。"
+    },
+    {
+      "role": "user",
+      "content": "ATRI现在不在这里。知道她去哪了吗"
+    },
+    {
+      "role": "system",
+      "content": "应该没去学校。凯瑟琳命令了不准进入学校。ATRI无法反抗命令。"
+    }
+  ]
+}

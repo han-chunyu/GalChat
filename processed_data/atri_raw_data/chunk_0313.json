@@ -1,0 +1,124 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】记忆中的道路"
+    },
+    {
+      "role": "system",
+      "content": "发现了记忆中所有的景色。顺着和主人散步的道路向家走。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】主人的家"
+    },
+    {
+      "role": "system",
+      "content": "在家的是主人的母亲。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】主人的母亲：你啊，是逃到这里的吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】主人的母亲：来这里干什么呀"
+    },
+    {
+      "role": "system",
+      "content": "【角色】主人的母亲：她已经不在了。结婚后离开了家。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】主人的母亲：……喂，你要去哪里！"
+    },
+    {
+      "role": "user_thought",
+      "content": "我再次彷徨了。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】某日"
+    },
+    {
+      "role": "system",
+      "content": "找到了主人。虽然外表变了，但人类是随着成长会改变的生物。我在她看不见的地方注视着她。"
+    },
+    {
+      "role": "user_thought",
+      "content": "主人抱着的小小的人类到底是什么。和以前的主人稍微有点像。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】日常"
+    },
+    {
+      "role": "system",
+      "content": "主人面带笑容，平静地进行着生活。在和那个小小的人类一起的时候更甚。"
+    },
+    {
+      "role": "system",
+      "content": "小小的人类经常哭泣。主人并没有察觉到我在旁边这件事。"
+    },
+    {
+      "role": "user_thought",
+      "content": "要是被发现了说不定会造成麻烦，我选择藏身于主人身边。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】紧急情况"
+    },
+    {
+      "role": "system",
+      "content": "那个小小的人类，爬着走出了院子。主人并没有察觉。小小的人类的前进方向处有道路。"
+    },
+    {
+      "role": "system",
+      "content": "车辆正在行驶。这样下去恐怕会相接触。判断比起自己隐蔽，保护小小的人类更为优先。"
+    },
+    {
+      "role": "system",
+      "content": "虽然我与车辆相接触，但可算是保护好了小小的人类。"
+    },
+    {
+      "role": "system",
+      "content": "把小小的人类托付给从车辆下来的人类后，我重新躲回阴影中。"
+    },
+    {
+      "role": "system",
+      "content": "察觉到骚动的主人来取回了小小的人类。在向驾驶员问清情况之后，像是在找着谁似的左右看了看。"
+    },
+    {
+      "role": "user_thought",
+      "content": "因为并没有见到我的身影，推测并没有察觉到我的存在。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】成长"
+    },
+    {
+      "role": "system",
+      "content": "小小的人类变得更大了。开始上学了。为了不出现主人的情况，开始守望着上下学。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】出行"
+    },
+    {
+      "role": "system",
+      "content": "主人和小小的人类开着车，向着某地出去了。推断可能往母亲处去。我也跟着去。"
+    },
+    {
+      "role": "system",
+      "content": "【日期】××/05/24"
+    },
+    {
+      "role": "system",
+      "content": "本应先到的主人的车还没有到。折返回去。"
+    },
+    {
+      "role": "system",
+      "content": "【事件】隧道坍塌事故发生。"
+    }
+  ]
+}

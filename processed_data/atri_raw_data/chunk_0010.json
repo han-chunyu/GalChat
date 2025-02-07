@@ -1,0 +1,136 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "潜水艇的激烈摇晃伴随着强烈的重力，把我甩出了驾驶席。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】潜水艇内"
+    },
+    {
+      "role": "system",
+      "content": "【音效】剧烈摇晃声"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：呼……都是因为你乱来，我还以为要翻船了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：？……啊，他回来了！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：还真是着急啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：这小子找到宝贝了！"
+    },
+    {
+      "role": "system",
+      "content": "潜水艇浮上海面，我打开了舱口。然后爬到舱外向着船身前方移动。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：很危险的，阿夏你干什么呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：会落水的！靠你那条腿没法游泳吧"
+    },
+    {
+      "role": "user",
+      "content": "不快点的话她会死的！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：她？"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌注意到了随着机械臂一起浮上来的少女。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：哎，这是谁啊？？"
+    },
+    {
+      "role": "system",
+      "content": "少女的脸还浸泡在海中，身子一动不动。"
+    },
+    {
+      "role": "system",
+      "content": "我探出身子向她伸出手。"
+    },
+    {
+      "role": "user",
+      "content": "抓住我，快点！"
+    },
+    {
+      "role": "system",
+      "content": "但她还是没有反应，可能是失去意识了。"
+    },
+    {
+      "role": "system",
+      "content": "我踩在船身上拼命将手伸出去。"
+    },
+    {
+      "role": "system",
+      "content": "--咚！"
+    },
+    {
+      "role": "user",
+      "content": "--!!？"
+    },
+    {
+      "role": "system",
+      "content": "用来充当右腿的义足脱落了。"
+    },
+    {
+      "role": "system",
+      "content": "我跌入海中，回过神来眼前已是海面上的粼粼波光。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（……真美啊）"
+    },
+    {
+      "role": "user_thought",
+      "content": "直觉告诉我已经束手无策，心境变得出乎意料的豁达。浸湿的衣服成了累赘，靠我的腿根本无法游上海面。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（这种死法啊……死前看到这么美的一幕真是太好了）"
+    },
+    {
+      "role": "user_thought",
+      "content": "比起在黑暗中孤独死去要好一万倍。"
+    },
+    {
+      "role": "system",
+      "content": "眼前仿佛有无数颗璀璨的宝石，正当我怔怔望着这一幕时，光芒之中出现了阴影。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（不要……不要挡住阳光……黑暗好恐怖……）"
+    },
+    {
+      "role": "user_thought",
+      "content": "（嗯--！？）"
+    },
+    {
+      "role": "system",
+      "content": "阴影凑到我身边，用什么东西按在了我的嘴上。其真身正是那名少女。"
+    },
+    {
+      "role": "user_thought",
+      "content": "（……她，在做什么……）"
+    },
+    {
+      "role": "system",
+      "content": "她追着我潜入海中，嘴对嘴将空气传了过来。"
+    }
+  ]
+}

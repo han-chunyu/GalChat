@@ -1,0 +1,108 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】室内，凯瑟琳与夏生的对话"
+    },
+    {
+      "role": "system",
+      "content": "【音效】沉稳的叙述声"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：倒推31年前，有仿生人潜入小学，对学生施加了暴力"
+    },
+    {
+      "role": "system",
+      "content": "31年前—ATRI整个系列被召回的年份。是因为和ATRI同一系列的仿生人引起这事故，被召回的吗。"
+    },
+    {
+      "role": "user",
+      "content": "所以你想说ATRI也有同样的缺陷吗"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：不是"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：被召回的同型号仿生人全部被回收掉废弃了"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：引发事件的仿生人也理所当然，调查结束之后，本应被解体的……"
+    },
+    {
+      "role": "user",
+      "content": "然后……？"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：在被解体之前逃跑了。而且，到现在都没被抓到"
+    },
+    {
+      "role": "user",
+      "content": "这难道……你想说是ATRI？"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：没有实证。但是那孩子所蕴含的危险性，你是最清楚的吧"
+    },
+    {
+      "role": "user",
+      "content": "你是指你被揍的事吧"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：……"
+    },
+    {
+      "role": "user",
+      "content": "……既然如此，我觉得你比她危险"
+    },
+    {
+      "role": "user_thought",
+      "content": "如果我告她持刀威胁我的话，估计她就失去教师资格了吧。"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：……我有自制力。她就不知道了"
+    },
+    {
+      "role": "user",
+      "content": "ATRI也有自制力。不然那时候，你受的伤就不止那一点了"
+    },
+    {
+      "role": "user_thought",
+      "content": "威胁我的凯瑟琳确实被ATRI所攻击了，但也手下留情了。"
+    },
+    {
+      "role": "user_thought",
+      "content": "但是，不管怎么说明凯瑟琳都是不会听的吧。机器人没有内心。既然无法和人类互通心灵，那就只能用逻辑上的规定来获得安心感。"
+    },
+    {
+      "role": "user_thought",
+      "content": "无论行为多么亲切，但不知道什么时候会变成人类的敌人。大部分人都会有着这种想法。"
+    },
+    {
+      "role": "user_thought",
+      "content": "所以人类给仿生人设定了原本没有必要加上的寿命。"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：要是对我过去的罪孽进行清算的话，我乐意接受"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：在那之前我是教师，有保护学生的义务。所以再也别让她接近这学校"
+    },
+    {
+      "role": "system",
+      "content": "【场景】回家的路上，步伐沉重"
+    },
+    {
+      "role": "user",
+      "content": "……得买新义肢了啊"
+    }
+  ]
+}

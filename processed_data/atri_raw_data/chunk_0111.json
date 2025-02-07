@@ -1,0 +1,148 @@
+{
+  "dialogues": [
+    {
+      "role": "user_thought",
+      "content": "所以还是不多问了。"
+    },
+    {
+      "role": "user",
+      "content": "话说其他孩子哪去了"
+    },
+    {
+      "role": "system",
+      "content": "【龙司】去天台玩了吧"
+    },
+    {
+      "role": "system",
+      "content": "【水菜萌】嗯？我刚才去看了一眼，没见到他们呀。凛凛花，你知道他们去哪了吗？"
+    },
+    {
+      "role": "system",
+      "content": "【凛凛花】那个……他们去楼下了。我说不能去但是他们不听"
+    },
+    {
+      "role": "system",
+      "content": "【龙司】楼下……"
+    },
+    {
+      "role": "user_thought",
+      "content": "我忽然吓得面色铁青。"
+    },
+    {
+      "role": "user",
+      "content": "……ATRI！"
+    },
+    {
+      "role": "assistant",
+      "content": "来了来了",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "我在ATRI的帮助下跑了起来。"
+    },
+    {
+      "role": "system",
+      "content": "此时二楼走廊的水已经涨起来了。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我踩着涌入的海水奔跑着。虽然跑得踉踉跄跄，但旁边的ATRI会扶着我。"
+    },
+    {
+      "role": "system",
+      "content": "【孩子B】哇啊"
+    },
+    {
+      "role": "system",
+      "content": "【孩子C】阿融！"
+    },
+    {
+      "role": "system",
+      "content": "用来设置发电机的那间教室里传来了孩子们的惨叫。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我冲进教室内，只见—"
+    },
+    {
+      "role": "user",
+      "content": "----！"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳抱着两个浑身湿透的孩子。她身后的大洞内汹涌的海水时进时出，仿佛在呼吸一般。"
+    },
+    {
+      "role": "user",
+      "content": "ATRI，孩子们交给你了"
+    },
+    {
+      "role": "assistant",
+      "content": "好的！",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "ATRI牵着孩子们跑到安全的地方。凯瑟琳也跟了上去。"
+    },
+    {
+      "role": "user_thought",
+      "content": "连成年人都无法在吸水时产生的水流中站稳。"
+    },
+    {
+      "role": "system",
+      "content": "【凯瑟琳】你们在干什么啊！"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳对着孩子们训斥道。"
+    },
+    {
+      "role": "system",
+      "content": "【凯瑟琳】没人告诉你们不能接近这里吗？"
+    },
+    {
+      "role": "system",
+      "content": "【孩子C】对不起……"
+    },
+    {
+      "role": "system",
+      "content": "【孩子B】是我提议去看看的"
+    },
+    {
+      "role": "system",
+      "content": "【凯瑟琳】要不是我刚好在这，你已经被吸到那个洞里了"
+    },
+    {
+      "role": "system",
+      "content": "【凯瑟琳】掉下去可就没救了，我也帮不了你们"
+    },
+    {
+      "role": "system",
+      "content": "【孩子B】对不起……"
+    },
+    {
+      "role": "user_thought",
+      "content": "凯瑟琳紧紧抱住低声抽泣的孩子们。"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳：没事就好"
+    },
+    {
+      "role": "user_thought",
+      "content": "孩子们抱紧凯瑟琳嚎啕大哭起来。凯瑟琳轻轻抚摸着怀中孩子们的后背，仿佛在安抚他们。"
+    },
+    {
+      "role": "user",
+      "content": "怎么回事啊……？"
+    },
+    {
+      "role": "user_thought",
+      "content": "看到孩子们平安我也放下了心。但是凯瑟琳为什么会在这里，而且还救了孩子们……完全想不通是怎么回事。"
+    }
+  ]
+}

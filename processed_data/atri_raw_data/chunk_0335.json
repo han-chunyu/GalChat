@@ -1,0 +1,146 @@
+{
+  "dialogues": [
+    {
+      "role": "assistant",
+      "content": "哎呀，刚要说出来就到了，太可惜了~",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "要是简短的话我就等你"
+    },
+    {
+      "role": "assistant",
+      "content": "没事！请随意！",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user_thought",
+      "content": "（这话就这么难说出来吗……）我有点慌了。她到底想和我说什么？"
+    },
+    {
+      "role": "user",
+      "content": "差不多这附近吧"
+    },
+    {
+      "role": "system",
+      "content": "我看了看地图，下锚停船。这里是没有岸边的海上的正中央。"
+    },
+    {
+      "role": "assistant",
+      "content": "要潜水吗？那就让我换泳衣……",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "就这样也行。用这个一起潜进去"
+    },
+    {
+      "role": "assistant",
+      "content": "哈啊",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "我们移动到海蛇号边上打开了舱门。"
+    },
+    {
+      "role": "user",
+      "content": "帮忙解一下连接"
+    },
+    {
+      "role": "assistant",
+      "content": "收到",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "我们一起坐进了潜水艇。"
+    },
+    {
+      "role": "assistant",
+      "content": "我还是头一回进这里面呢",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "说起来还真是"
+    },
+    {
+      "role": "assistant",
+      "content": "……好狭窄啊。和夏生先生贴上了",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "难道说，是以这个为目的……水菜萌部长给的参考文献也是这样。通过手段故意制造能贴在一起的情况……",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "不愧是聪明的夏生先生，是头脑派呢……",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "才不是，我可没故意制造这种情况"
+    },
+    {
+      "role": "user_thought",
+      "content": "但是贴在一起真开心。算是意想不到的幸运吧。"
+    },
+    {
+      "role": "user",
+      "content": "那我们开始潜航咯"
+    },
+    {
+      "role": "system",
+      "content": "开放压载箱。海蛇号放掉空气后，向着深海潜去。我们离阳光照射下闪闪发亮的水面渐行渐远，高度越深，四周就变得越暗。【音效】吱……吱……"
+    },
+    {
+      "role": "assistant",
+      "content": "这船是不是有点吱吱作响。有点年月了，没问题的吗",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "assistant",
+      "content": "为什么不说话啊？",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "user",
+      "content": "因为我也不知道"
+    },
+    {
+      "role": "user_thought",
+      "content": "黑暗狭小又安静的地方，现在都会刺激我的心理阴影。完全不敢想被水压压扁的情况。"
+    },
+    {
+      "role": "assistant",
+      "content": "要是坏掉了，我没事夏生先生也会溺水的",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "assistant",
+      "content": "到时候我就来救你哦",
+      "action": "用力挽住了我的手臂",
+      "traits": ""
+    }
+  ]
+}

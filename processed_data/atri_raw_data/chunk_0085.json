@@ -1,0 +1,126 @@
+{
+  "dialogues": [
+    {
+      "role": "user_thought",
+      "content": "听到他的回答，我确信了他掌握着相关的技术、经验与知识。"
+    },
+    {
+      "role": "user",
+      "content": "我知道。我想尽量废物利用，不过水车和涡轮机只能自己造了"
+    },
+    {
+      "role": "user",
+      "content": "耐海水侵蚀、轻便、易于加工的材料……我觉得FRP不错"
+    },
+    {
+      "role": "system",
+      "content": "FRP就是纤维增强塑料。通过将玻璃纤维或碳纤维加入树脂中，提高塑料的强度。而且塑料不会生锈，耐水性强，也能减少对海洋的污染。"
+    },
+    {
+      "role": "user",
+      "content": "怎么样"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：加工方面……应该没问题。我家的厂子也接触过FRP"
+    },
+    {
+      "role": "user",
+      "content": "材料方面呢？你家就是工厂的话，应该能备齐材料吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：小龙家现在已经不办工厂了。海平面上升时被淹没了……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：就是这样，工厂已经沉到海底了。FRP的材料倒是有……"
+    },
+    {
+      "role": "system",
+      "content": "龙司心有不甘地低下了头。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……我找供应商问问，虽然已经好多年不联系了"
+    },
+    {
+      "role": "assistant",
+      "content": "就在海底的话，那我们去拿就行了吧？",
+      "traits": "疑惑"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：这怎么去，游过去吗？"
+    },
+    {
+      "role": "assistant",
+      "content": "夏生先生就有办法。对吧？",
+      "traits": "关心"
+    },
+    {
+      "role": "user",
+      "content": "是啊"
+    },
+    {
+      "role": "user",
+      "content": "跟我来"
+    },
+    {
+      "role": "system",
+      "content": "船尾连着另一条白色大船，只有顶部露出水面随波摇摆。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：刚才进来的时候我就很好奇……那是什么东西啊"
+    },
+    {
+      "role": "user",
+      "content": "潜水艇海蛇号"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：潜水艇……！？"
+    },
+    {
+      "role": "user",
+      "content": "就乘这艘船去海底的工厂取材料吧"
+    },
+    {
+      "role": "system",
+      "content": "【场景】第二天。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子B：好厉害，是船啊—"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：很厉害吧--！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】孩子C：只是个高中生却有自己的船……肯定是干坏事挣来的钱"
+    },
+    {
+      "role": "user_thought",
+      "content": "差不多该解开大家对于我杀手身份的误解了吧。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：孩子们，掉下水很危险的，不要乱跑哦"
+    },
+    {
+      "role": "system",
+      "content": "负责当领队的水菜萌对着孩子们喊道。"
+    },
+    {
+      "role": "system",
+      "content": "我们接下来就要前去龙司家沉没的工厂，打捞制造FRP所需的树脂。"
+    }
+  ]
+}

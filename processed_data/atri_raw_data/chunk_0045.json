@@ -1,0 +1,120 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】教室"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：谢谢！等我一下哦……就是这里，这里，这里……还有……"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌翻开笔记本。"
+    },
+    {
+      "role": "system",
+      "content": "恐怕是没有老师的这一个月内攒了很多问题吧。"
+    },
+    {
+      "role": "system",
+      "content": "我解答了她的所有疑问。"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：阿夏你好厉害……你是天才吧！"
+    },
+    {
+      "role": "user_thought",
+      "content": "她夸张的反应让我有些不知如何是好，不过能帮上忙还是挺开心的。"
+    },
+    {
+      "role": "user",
+      "content": "你叫龙司对吧"
+    },
+    {
+      "role": "system",
+      "content": "龙司：啊？"
+    },
+    {
+      "role": "user",
+      "content": "顺便也教教你吧"
+    },
+    {
+      "role": "system",
+      "content": "龙司：啊？我不需要！"
+    },
+    {
+      "role": "system",
+      "content": "龙司满脸通红，又怒又惊。"
+    },
+    {
+      "role": "user",
+      "content": "因为没有老师上课，你才在教室角落里荒废时间吧？"
+    },
+    {
+      "role": "user",
+      "content": "如果你不介意的话，我可以教你"
+    },
+    {
+      "role": "system",
+      "content": "龙司：……突然跑来这里装老师吗，而且你还比我小吧"
+    },
+    {
+      "role": "user",
+      "content": "我以前在研究院上学，所以这部分内容已经学完了"
+    },
+    {
+      "role": "user",
+      "content": "不过也只是学习环境不同而已，你没必要自卑"
+    },
+    {
+      "role": "system",
+      "content": "龙司：……那你可真牛逼啊"
+    },
+    {
+      "role": "user",
+      "content": "啊？谢谢"
+    },
+    {
+      "role": "system",
+      "content": "龙司：我又没夸你。而且我们花时间学习也是白费劲吧，能有什么用"
+    },
+    {
+      "role": "user",
+      "content": "能拓宽未来的选择。要是上了大学也能找个好工作，成为对社会有用的人才"
+    },
+    {
+      "role": "system",
+      "content": "研究院成立后虽然有一部分大学被合并到其中，但各地还是留有大学作为教育、研究机关。"
+    },
+    {
+      "role": "system",
+      "content": "尽管研究经费因为人口减少以及社会动荡而被削减，但依然有大学能够拿出与研究院相匹敌的成果。"
+    },
+    {
+      "role": "system",
+      "content": "龙司：你觉得我们这里会有人上大学？"
+    },
+    {
+      "role": "user_thought",
+      "content": "虽然我只认识水菜萌一个人，但也许就像龙司说的那样，这里没有人上得了大学。"
+    },
+    {
+      "role": "system",
+      "content": "龙司：能上大学的就只有一部分精英。剩下的人努力学习也是屁用没有。"
+    },
+    {
+      "role": "system",
+      "content": "龙司：就是浪费时间而已"
+    },
+    {
+      "role": "system",
+      "content": "龙司：而且学习要是那么重要的话，你为什么会在这个地方啊？"
+    },
+    {
+      "role": "system",
+      "content": "龙司：研究院是吧？你就呆在那个高端学校里学习不就成了"
+    }
+  ]
+}

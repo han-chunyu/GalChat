@@ -1,0 +1,104 @@
+{
+  "dialogues": [
+    {
+      "role": "user_thought",
+      "content": "ATRI有跟紧我们吗……？"
+    },
+    {
+      "role": "system",
+      "content": "我看向斜上方的小窗口。"
+    },
+    {
+      "role": "system",
+      "content": "ATRI紧紧抓着船身外侧的防撞框架。"
+    },
+    {
+      "role": "assistant",
+      "content": "……",
+      "action": "注意到夏生的视线，开心地挥了挥手",
+      "traits": "开心"
+    },
+    {
+      "role": "system",
+      "content": "尽管定好了简单的交流手势，但无法进行对话还是很让人担心。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……那就是我家的工厂"
+    },
+    {
+      "role": "system",
+      "content": "龙司小声嘟囔道。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我见到外婆家时也勾起了一股莫名的乡愁，龙司此时的感情波动一定更为剧烈吧。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：那是我爷爷创办的工厂。虽然厂子很小，但工作态度非常专业，也有海外客户会向我们订购特殊零部件"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：如果不发生那种事情，我是准备继承家业的……"
+    },
+    {
+      "role": "user",
+      "content": "这样啊"
+    },
+    {
+      "role": "user_thought",
+      "content": "我不知该如何回答。我并不了解龙司家的情况。况且就算了解，这也不是件能轻易深入的问题。他也明白这一点，但还是忍不住想对他人倾诉吧。"
+    },
+    {
+      "role": "system",
+      "content": "缓缓下潜的海蛇号终于抵达了海底。"
+    },
+    {
+      "role": "assistant",
+      "content": "……",
+      "action": "松开了潜水艇的框架，降到海底",
+      "traits": "疑惑"
+    },
+    {
+      "role": "system",
+      "content": "我调整压载水舱内的空气以控制重量平衡和中性浮力，否则潜水艇就无法在水中保持水平状态。"
+    },
+    {
+      "role": "user",
+      "content": "水菜萌，听得到吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯，听得到—"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：哇，是夏生老师的声音。我说，海里是什么样的？我下次也想潜水！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：哎呀，凛凛花你别在这添乱"
+    },
+    {
+      "role": "user",
+      "content": "我们已经到海底了。接下来开始回收树脂。把起重机降下来"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：嗯，我知道了"
+    },
+    {
+      "role": "system",
+      "content": "片刻之后起重机的钩子降了下来，末端还系着一张网。找到树脂后就要放到网中再拖上去。"
+    },
+    {
+      "role": "user",
+      "content": "龙司，树脂在哪"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：在工厂里面的仓库内。从那个卷帘门进去右转"
+    }
+  ]
+}

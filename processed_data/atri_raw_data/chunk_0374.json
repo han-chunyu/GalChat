@@ -1,0 +1,116 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】学校天台"
+    },
+    {
+      "role": "system",
+      "content": "那时ATRI想要隐藏自己没有真正的心灵。现在想来，尽管她当时骗了我，但这也证明她拥有自己的感情。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：怎么一个人在这郁闷啊。一副愁眉苦脸的样子"
+    },
+    {
+      "role": "user",
+      "content": "……都放暑假了，你怎么还在啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：没办法啊，我就住在这儿。你想自己待着就回家去啊"
+    },
+    {
+      "role": "user",
+      "content": "因为ATRI特别喜欢学校"
+    },
+    {
+      "role": "system",
+      "content": "ATRI是真的在享受校园生活。学习这件事本身就让她很开心吧。甚至在凯瑟琳命令她不准进学校之后，她还是想方设法要来。"
+    },
+    {
+      "role": "user",
+      "content": "我得向你道谢。谢谢你把她当成自己的学生"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……你什么意思，挖苦我？"
+    },
+    {
+      "role": "user",
+      "content": "是我的真心话"
+    },
+    {
+      "role": "user",
+      "content": "而且我们的相遇也是多亏了你。我很感激"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：你摆出这么诚恳的态度，感觉天上都要下雨了。别这样，今晚可是很重要的"
+    },
+    {
+      "role": "user_thought",
+      "content": "我表现得诚恳有那么奇怪吗……"
+    },
+    {
+      "role": "user",
+      "content": "（大家到底把我当什么人了）"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：你歪什么脑袋啊，我开玩笑的。解说工作就交给你咯"
+    },
+    {
+      "role": "user",
+      "content": "嗯，我知道"
+    },
+    {
+      "role": "system",
+      "content": "火箭将在今晚发射。同学们决定今晚聚集在学校天台上一起观看。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：回头见，交给你咯"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳挥挥手便离开了。"
+    },
+    {
+      "role": "user",
+      "content": "到底来干嘛的……"
+    },
+    {
+      "role": "user_thought",
+      "content": "难道是担心我？"
+    },
+    {
+      "role": "user",
+      "content": "怎么可能"
+    },
+    {
+      "role": "system",
+      "content": "我回头看向笔记，看到了熟悉的一页。《上学途中，被说“喜欢你”了，用“喜欢”回答了他。》"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "system",
+      "content": "我就是读了这一页，才知道ATRI的感情只是伪装，因此倍受打击。苦涩的回忆忽然复苏。那时，ATRI还未发觉自己所拥有的心灵。所以当我告白时，她只是为了取悦我而做出虚假的回应。"
+    },
+    {
+      "role": "user",
+      "content": "……？"
+    },
+    {
+      "role": "user",
+      "content": "这是……"
+    },
+    {
+      "role": "system",
+      "content": "“喜欢”这两个字上有水渍。"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "dialogues": [
+    {
+      "role": "user",
+      "content": "我也是吃了上顿没下顿啊"
+    },
+    {
+      "role": "system",
+      "content": "【场景】废品店"
+    },
+    {
+      "role": "system",
+      "content": "【角色】废品店老板：多谢惠顾—"
+    },
+    {
+      "role": "system",
+      "content": "我们买完东西准备离开，这时老板突然向我搭话。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】废品店老板：话说，你上次不是带了个花里胡哨的女人来吗"
+    },
+    {
+      "role": "user",
+      "content": "凯瑟琳怎么了吗"
+    },
+    {
+      "role": "system",
+      "content": "【角色】废品店老板：她该不会是小花吧？"
+    },
+    {
+      "role": "user",
+      "content": "嗯？我……我也不是很了解她。不过她说自己是从城市来的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】废品店老板：这样啊，果然不是一个人吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】废品店老板：哎呀，她一到晚上就到处喝酒，有名的很。我感觉她好像是小佐田家那个三年前离家出走，去向不明的小花"
+    },
+    {
+      "role": "user_thought",
+      "content": "我也不认识他说的这个人，不知道该怎么回答。"
+    },
+    {
+      "role": "user",
+      "content": "下次遇到的时候我问问她"
+    },
+    {
+      "role": "system",
+      "content": "【场景】归途"
+    },
+    {
+      "role": "system",
+      "content": "我们采购归来，看到凛凛花一个人在努力干活。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嘿咻……嘿咻……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：你现在干活挺熟练啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：嗯，老师教我的"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花聚精会神干着活回答道。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：老师？  你说夏生吗？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：啊，糟糕！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：……没什么，这是秘密"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：好可疑啊，你隐瞒了什么吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：哪有啦，我没隐瞒啊，什么都没有—"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花跳起了奇怪的舞蹈，但根本骗不过龙司。"
+    },
+    {
+      "role": "system",
+      "content": "不过只是小孩子的事，龙司也没有深究，回去干自己的活了。"
+    },
+    {
+      "role": "system",
+      "content": "我们就这样各自忙活着。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司 ：话说夏生，刚才说的小花……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：惊！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：怎么了凛凛花？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：没、没什么"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：不会是那个小花吧"
+    },
+    {
+      "role": "user",
+      "content": "你认识？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：我有两个姐姐啊，那个小花好像是我家大姐的学姐"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：我还想问你呢，为什么会认识小花啊"
+    },
+    {
+      "role": "user",
+      "content": "因为我有个熟人长得像她而已"
+    },
+    {
+      "role": "user_thought",
+      "content": "凯瑟琳难道是本地人吗。深挖别人过去的经历不是件好事，她自称凯瑟琳也是因为想隐藏自己吧。"
+    }
+  ]
+}

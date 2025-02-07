@@ -1,0 +1,116 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】室内"
+    },
+    {
+      "role": "system",
+      "content": "妻：孩子他爸一边弹奏……那孩子一边歌唱"
+    },
+    {
+      "role": "user_thought",
+      "content": "是个感人的故事，但恕我直言，这歌确实不怎么样"
+    },
+    {
+      "role": "user",
+      "content": "……别指望病人能唱得多好听……废物"
+    },
+    {
+      "role": "user_thought",
+      "content": "废物是对机器人的蔑称。我要求改正用词"
+    },
+    {
+      "role": "user",
+      "content": "吵死了，闭嘴……"
+    },
+    {
+      "role": "system",
+      "content": "妻：呵呵，这番对话也很让人怀念呢"
+    },
+    {
+      "role": "system",
+      "content": "那所我曾短暂逗留过的学校，以及令人怀念的城镇，全都沉入了海中。"
+    },
+    {
+      "role": "system",
+      "content": "在学校沉没之前，凯瑟琳一直教育着当地的孩子们。"
+    },
+    {
+      "role": "system",
+      "content": "多亏她热忱的教育态度，那所小小的乡镇学校竟有三名学生考进了研究院。"
+    },
+    {
+      "role": "system",
+      "content": "其中最早考上研究院的名波凛凛花，成为了能源技术专家，并且实现了小型核聚变炉的实用化。"
+    },
+    {
+      "role": "system",
+      "content": "我的好朋友野岛龙司，则运用自己与生俱来的领导能力成为了诺亚的第一任市长，同时在财政方面支持着凛凛花的研究。"
+    },
+    {
+      "role": "system",
+      "content": "【音效】飞舞的樱花从窗口飘入。"
+    },
+    {
+      "role": "system",
+      "content": "有些人斥责现在的世界不是自然的产物。"
+    },
+    {
+      "role": "system",
+      "content": "就像眼前的樱花，也是通过人工改良基因适应当今世界的品种。"
+    },
+    {
+      "role": "system",
+      "content": "我能理解他们厌恶一切事物都受人类操纵的感觉。"
+    },
+    {
+      "role": "system",
+      "content": "但因为这点事情就要接受灭亡吗？"
+    },
+    {
+      "role": "system",
+      "content": "那我只想对他们说，自己想死不要连累其他人。"
+    },
+    {
+      "role": "system",
+      "content": "宇宙开发正迈向下一阶段，准备从月球上建造的中转基地开始改造火星。"
+    },
+    {
+      "role": "system",
+      "content": "尽管不知道多少年后才能让火星变得宜居，但总有一天人类能随心所欲改造其他星球吧。"
+    },
+    {
+      "role": "system",
+      "content": "我们不知道什么才是正确的。"
+    },
+    {
+      "role": "system",
+      "content": "只是不想放弃未来而已。"
+    },
+    {
+      "role": "user",
+      "content": "孩子他妈……把电视……"
+    },
+    {
+      "role": "system",
+      "content": "妻：把电视打开"
+    },
+    {
+      "role": "system",
+      "content": "妻子清晰地说出这几个字后，忽然出现了视频窗口。"
+    },
+    {
+      "role": "system",
+      "content": "AI对我微弱的声音毫无反应。"
+    },
+    {
+      "role": "user",
+      "content": "……明明是我做出来的"
+    },
+    {
+      "role": "system",
+      "content": "妻：上了年纪才知道老人家有多辛苦呢"
+    }
+  ]
+}

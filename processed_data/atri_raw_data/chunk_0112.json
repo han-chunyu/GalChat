@@ -1,0 +1,204 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】教室"
+    },
+    {
+      "role": "system",
+      "content": "带着孩子们回到教室后，凯瑟琳冲着我们说道。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳"
+    },
+    {
+      "role": "system",
+      "content": "要把孩子们看紧点啊！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "是、是的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司"
+    },
+    {
+      "role": "system",
+      "content": "对不起"
+    },
+    {
+      "role": "system",
+      "content": "你们听好了，小孩子这种生物就是会明知故犯！"
+    },
+    {
+      "role": "system",
+      "content": "甚至会做出大人无法想象的事情"
+    },
+    {
+      "role": "system",
+      "content": "光在口头上嘱咐多少遍都没有用，所以必须看紧他们"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "对不起……"
+    },
+    {
+      "role": "system",
+      "content": "而且危险的不只是孩子们，你们几个也一样！"
+    },
+    {
+      "role": "system",
+      "content": "连我这个成年人都差点被冲走，掉下去肯定就没命了吧"
+    },
+    {
+      "role": "user",
+      "content": "对不起……是我疏忽了"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳的训话技巧炉火纯青，我们都老老实实听着她的训斥。"
+    },
+    {
+      "role": "system",
+      "content": "她这副样子比持刀威胁我时靠谱多了。"
+    },
+    {
+      "role": "system",
+      "content": "……服了，你们也还只是个孩子，虽然在这扮了几天老师"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳所言极是，完全无法反驳。就是由于我们想得太过简单，才让所有人置身于危险之中。"
+    },
+    {
+      "role": "system",
+      "content": "确实应该反省。"
+    },
+    {
+      "role": "system",
+      "content": "只不过……"
+    },
+    {
+      "role": "user",
+      "content": "你为什么在这儿啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳（愣住）"
+    },
+    {
+      "role": "system",
+      "content": "路过而已……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司"
+    },
+    {
+      "role": "system",
+      "content": "不坐船进不来吧？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳"
+    },
+    {
+      "role": "system",
+      "content": "这个嘛，呃……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花"
+    },
+    {
+      "role": "system",
+      "content": "对不起……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌"
+    },
+    {
+      "role": "system",
+      "content": "哎，凛凛花？你为什么要道歉？"
+    },
+    {
+      "role": "system",
+      "content": "是我捡回来的"
+    },
+    {
+      "role": "user",
+      "content": "捡回来？？"
+    },
+    {
+      "role": "system",
+      "content": "发电机能不能快点做出来啊……那样晚上也能读书学习了"
+    },
+    {
+      "role": "system",
+      "content": "……嗯？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳"
+    },
+    {
+      "role": "system",
+      "content": "呜呜……嗝……啊，今晚也喝多了"
+    },
+    {
+      "role": "system",
+      "content": "……哎呀？那是什么……学校吗？"
+    },
+    {
+      "role": "system",
+      "content": "学校沉没了啊~~~真是搞笑~~~~~哈哈哈哈哈哈哈哈"
+    },
+    {
+      "role": "system",
+      "content": "哎哟！！？"
+    },
+    {
+      "role": "system",
+      "content": "啊—"
+    },
+    {
+      "role": "system",
+      "content": "学校啊……"
+    },
+    {
+      "role": "system",
+      "content": "……"
+    },
+    {
+      "role": "system",
+      "content": "回想一下真是充满后悔的人生啊……干脆就这样……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花"
+    },
+    {
+      "role": "system",
+      "content": "冷静！！！！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳"
+    },
+    {
+      "role": "system",
+      "content": "哎？"
+    }
+  ]
+}

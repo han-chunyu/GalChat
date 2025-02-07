@@ -1,0 +1,122 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】某处房间内，众人正在讨论火箭发射的话题"
+    },
+    {
+      "role": "system",
+      "content": "那个收音机是凛凛花自制的。我只是稍微给了一些建议，剩下的都是她自己做的。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：我也觉得能飞。……其实这些不好懂的东西我也不太明白！"
+    },
+    {
+      "role": "system",
+      "content": "就连水菜萌也握着拳头兴奋地说道。他们到底在说什么呢。"
+    },
+    {
+      "role": "assistant",
+      "content": "早上好",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊，早上好小ATRI，阿夏"
+    },
+    {
+      "role": "user",
+      "content": "早上好"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：阿夏，昨天的新闻你听了吗？"
+    },
+    {
+      "role": "user",
+      "content": "没，说了什么？"
+    },
+    {
+      "role": "user_thought",
+      "content": "我现在满脑子都是ATRI，根本没工夫关心这些世态人情。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：火箭啊！这次终于要发射了！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：计划风调雨顺，新闻说，计划下下周发射"
+    },
+    {
+      "role": "user",
+      "content": "是么"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：凛凛花呢，说从这里应该也能看得到的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：看得到啊！ 应该。看不到……？"
+    },
+    {
+      "role": "user",
+      "content": "看得到看不到应该根据天气好坏吧，按理说能看到"
+    },
+    {
+      "role": "system",
+      "content": "发射将在海上的漂浮基地进行，结合轨道考虑的话从这里应该也可以看到火箭升空。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：那天就当做特别课程，大家一起来看吧"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：花子老师，早上好"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：别用这个名字叫我"
+    },
+    {
+      "role": "user",
+      "content": "用不着这么做吧。即便看得见，因为在远处只有一丁点"
+    },
+    {
+      "role": "user_thought",
+      "content": "要是太期待的话，或许会期待落空失望而归吧。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：因为是对未来的希望。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：我想让孩子们记住它。它能成为他们生活在今后新时代的灯塔"
+    },
+    {
+      "role": "user",
+      "content": "……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：你这是什么表情"
+    },
+    {
+      "role": "user",
+      "content": "以前你不是还抱怨过“有功夫放什么狗屁烟花，不如给市民们的生活想想办法”来着么"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：因为现在的我是教师"
+    },
+    {
+      "role": "user_thought",
+      "content": "她看来真的是喜欢教师这个工作。之前是因为工作被夺走，开始自暴自弃，才会以讨债人的身份出现在我的面前的吧。"
+    }
+  ]
+}

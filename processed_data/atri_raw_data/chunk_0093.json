@@ -1,0 +1,144 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】工作间"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：没问题，应该能用"
+    },
+    {
+      "role": "system",
+      "content": "我们确认了一下容器内部的情况，里面没有进水，品质上应该没有问题。分量也足以留出多余的储备。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：还得收集剩下的材料啊"
+    },
+    {
+      "role": "user",
+      "content": "我来画设计图"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：啊？上次画的那张不行吗"
+    },
+    {
+      "role": "user",
+      "content": "我想做得再大点。一开始我是打算用金属制造的。但换成FRP的话加工更方便了，可以用上曲面"
+    },
+    {
+      "role": "system",
+      "content": "FRP（纤维强化塑料）比起金属更容易加工成各种形状。所以也可以更改为能量转换率更高的设计。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：你还真牛逼啊"
+    },
+    {
+      "role": "user",
+      "content": "什么意思？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：没，就是字面意思。你既会开潜水艇，又会画设计图啊。这些都是在研究院学的？"
+    },
+    {
+      "role": "user",
+      "content": "部分是，大多都靠自学"
+    },
+    {
+      "role": "user_thought",
+      "content": "我遇到好奇的问题就会想方设法去了解，这也是受到了外婆和老爸的影响吧。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：这样啊。我之前还瞧不起你，是我不对"
+    },
+    {
+      "role": "user",
+      "content": "我才应该道歉，还以为你很笨呢"
+    },
+    {
+      "role": "user_thought",
+      "content": "我诚恳地低头认错。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……你这人能若无其事地说出这种话啊"
+    },
+    {
+      "role": "user",
+      "content": "你说什么？"
+    },
+    {
+      "role": "user",
+      "content": "哈哈，你可真有意思"
+    },
+    {
+      "role": "system",
+      "content": "龙司莫名其妙笑了起来，用力拍拍我的肩膀。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】海边野餐"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌抬过来的桌子上放着小炉灶，现在正煮着一锅佳肴。锅里是已经煮到通红的螃蟹。"
+    },
+    {
+      "role": "assistant",
+      "content": "螃蟹~螃蟹~",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "凛凛花：螃蟹螃蟹~~~"
+    },
+    {
+      "role": "system",
+      "content": "孩子B：肚子好饿！！"
+    },
+    {
+      "role": "system",
+      "content": "孩子C：水菜萌姐姐，我要吃螃蟹"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：好好好，有很多螃蟹的"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌将螃蟹分给饥肠辘辘的孩子们和某个机器人。"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花：我开动啦"
+    },
+    {
+      "role": "system",
+      "content": "我们围着桌子吃起螃蟹，这作为郊游的收尾或许正合适。"
+    },
+    {
+      "role": "assistant",
+      "content": "啊呜啊呜……真好吃~~",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：是啊"
+    },
+    {
+      "role": "system",
+      "content": "孩子C：好……好烫……"
+    },
+    {
+      "role": "system",
+      "content": "孩子B：超好吃~"
+    }
+  ]
+}

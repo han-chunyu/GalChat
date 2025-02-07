@@ -1,0 +1,110 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】教室"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：很多人的家都被海水淹没了，我家也一样。肯定有些珍贵的东西还沉在海底"
+    },
+    {
+      "role": "system",
+      "content": "的确如此。"
+    },
+    {
+      "role": "user_thought",
+      "content": "我现在还清楚记得水菜萌看到教室亮起灯关时流下的眼泪。"
+    },
+    {
+      "role": "system",
+      "content": "由于半座小镇被水淹没，许多人移居到了其他地方，但依然有很多人选择留在这座没有供电、生活不便的小岛上。"
+    },
+    {
+      "role": "system",
+      "content": "也有些居民世世代代都居住在这里吧，应该会有人想要从曾经的住所里打捞东西。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：什么什么？小龙你们要做什么？算我一个！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：喔，你也来帮忙吧。会给你零花钱的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：零花钱！我一定要去！"
+    },
+    {
+      "role": "user_thought",
+      "content": "如果是刚到这座岛上的时候，我一定会这么回答吧。--光靠一群小孩子做买卖？算了吧，肯定不会顺利的。"
+    },
+    {
+      "role": "user_thought",
+      "content": "龙司曾以为靠自己的力量什么都改变不了，而我也是一样。但我们却做到了。"
+    },
+    {
+      "role": "user_thought",
+      "content": "尽管只是一件小事，却让我们意识到我们也能改变现状。"
+    },
+    {
+      "role": "user_thought",
+      "content": "或许就是因为这样，现在的我才会如此回答道……"
+    },
+    {
+      "role": "user",
+      "content": "挺有趣啊，试试吧"
+    },
+    {
+      "role": "user_thought",
+      "content": "未来有什么在等着我们，根本无从想象。正因如此我才感到有趣。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：好，决定了。放学后开作战会议"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：作战会议！"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：好了，同学们。到上课时间了，坐回位置上"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳老师摇着上课铃走进教室。"
+    },
+    {
+      "role": "system",
+      "content": "身为班长的水菜萌喊出了起立口号。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：起立，敬礼。老师早上好"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：早上好"
+    },
+    {
+      "role": "assistant",
+      "content": "早上好",
+      "action": "",
+      "traits": ""
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：嗯，早上好。呃，同学们……都到了啊。学生少就是轻松"
+    },
+    {
+      "role": "user_thought",
+      "content": "我仿佛感受到命运的齿轮悄然发生的变化。未来也确实地开始向着我们想也未曾想象过的方位上，扬帆起航。"
+    },
+    {
+      "role": "system",
+      "content": "突然，黑色的石块从天而降—"
+    }
+  ]
+}

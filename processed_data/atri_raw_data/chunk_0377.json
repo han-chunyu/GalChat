@@ -1,0 +1,108 @@
+{
+  "dialogues": [
+    {
+      "role": "system",
+      "content": "【场景】天台，黄昏时分，能俯瞰到镇上的灯光"
+    },
+    {
+      "role": "user",
+      "content": "在这能看到镇上的灯光啊"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：真厉害啊，到了晚上还是灯火通明。简直像回到了过去。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：终于从学者老师变成“救世主”了啊。拿着，超冰的汽水"
+    },
+    {
+      "role": "system",
+      "content": "龙司把罐身浮着一层水珠的冰镇汽水递给夏生"
+    },
+    {
+      "role": "user",
+      "content": "……都这么叫我了吗"
+    },
+    {
+      "role": "user_thought",
+      "content": "太夸张了吧。"
+    },
+    {
+      "role": "user",
+      "content": "好久没有喝过这么冰的饮料了"
+    },
+    {
+      "role": "system",
+      "content": "【音效】广播声响起"
+    },
+    {
+      "role": "system",
+      "content": "【广播】倒计时开始了！现在切换到现场转播"
+    },
+    {
+      "role": "system",
+      "content": "【角色】水菜萌：啊，已经开始了吗"
+    },
+    {
+      "role": "user",
+      "content": "不用急，还有时间"
+    },
+    {
+      "role": "system",
+      "content": "【广播】本日发射时间预订于日本时间22时6分25秒。自动倒计时开始"
+    },
+    {
+      "role": "system",
+      "content": "【广播】298……297……296……"
+    },
+    {
+      "role": "system",
+      "content": "发射的时刻渐渐临近。大家都紧抓着天台的栏杆，仰望着太平洋上空。几缕残云后是闪烁的星辰。"
+    },
+    {
+      "role": "system",
+      "content": "龙司：……"
+    },
+    {
+      "role": "system",
+      "content": "凛凛花：……"
+    },
+    {
+      "role": "system",
+      "content": "水菜萌：……"
+    },
+    {
+      "role": "system",
+      "content": "兴奋的同学们表情渐渐凝重。期待与担忧交织合一。大家都情不自禁将火箭发射与自己的未来重叠在了一起。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：……我说，会成功吧"
+    },
+    {
+      "role": "user",
+      "content": "看着就知道了"
+    },
+    {
+      "role": "user_thought",
+      "content": "她作为唯一的成年人就不能沉稳一点吗。"
+    },
+    {
+      "role": "system",
+      "content": "【广播】所有系统已切换为内部电源 燃料方面准备完毕。"
+    },
+    {
+      "role": "system",
+      "content": "转播方一板一眼的声音也飘荡起了紧张感"
+    },
+    {
+      "role": "system",
+      "content": "【广播】距离发射还有一分钟"
+    },
+    {
+      "role": "user_thought",
+      "content": "火箭在我眼中代表的却不是未来，而是过去。如果火箭发射成功，过去的一切就能一笔勾销。那一天的我也会得到解脱—父亲是为了拯救我与地球，不得不选择辜负家人。"
+    }
+  ]
+}

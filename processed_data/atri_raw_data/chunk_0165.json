@@ -1,0 +1,132 @@
+{
+  "dialogues": [
+    {
+      "role": "user",
+      "content": "没，因为你和ATRI凛凛花都挺靠不住的，就是靠不住的方向不同"
+    },
+    {
+      "role": "user_thought",
+      "content": "很容易让人想要照顾她。明明年长，而且本职还是教师。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：那真是多谢了。实际上我也是一直受你照顾的……"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：倒算不上报恩，等下次，我打算给你来个特别授课"
+    },
+    {
+      "role": "user",
+      "content": "特别授课？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：登上大人的阶梯的必修科目哦"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳大胆地笑着说道。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】午休结束，凯瑟琳老师一边手摇手铃代替课铃，一边走进教室，向大家说道。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：下午要上特别课程"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凛凛花：她说特别课程"
+    },
+    {
+      "role": "system",
+      "content": "【角色】融：要干什么呢"
+    },
+    {
+      "role": "system",
+      "content": "【角色】样子：太棒啦，没数学课了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：好了好了，安静。这可是重要的课要认真听哦"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：要做什么？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】凯瑟琳：保健体育哦"
+    },
+    {
+      "role": "system",
+      "content": "凯瑟琳老师高声宣布道。"
+    },
+    {
+      "role": "system",
+      "content": "【场景】小学部，初中部，高中部的男生全员，集中到了屋顶上。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：竟然男女分别……挺有模有样的啊"
+    },
+    {
+      "role": "system",
+      "content": "这里有着八名学生。大家被赶出教室以后，变得坐立不安的。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】融：为什么在屋顶上啊？"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：这里露天，不挺好的么"
+    },
+    {
+      "role": "system",
+      "content": "刚开始打算移动到隔壁的空教室，由于龙司的提案我们才来到这里的。"
+    },
+    {
+      "role": "system",
+      "content": "【角色】初中部男生：我们要在这里上课吗学长"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：……怎么办阿夏"
+    },
+    {
+      "role": "user",
+      "content": "…………"
+    },
+    {
+      "role": "user_thought",
+      "content": "我陷入了片刻沉思。凯瑟琳到底会给我们准备什么课程，我们根本不知道。即便如此还要上保健体育课么。"
+    },
+    {
+      "role": "user",
+      "content": "女孩通过这个课程就能一步登上大人阶梯吧。我们要是一直什么都不做的话，之后肯定会被嘲笑的"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：的……的确是"
+    },
+    {
+      "role": "system",
+      "content": "【角色】初中部男生：要上吗……保健体育课（咽口水）"
+    },
+    {
+      "role": "system",
+      "content": "大家由于心理作用作怪，都紧绷着表情。"
+    },
+    {
+      "role": "user",
+      "content": "那么特别讲师龙司老师，拜托您了"
+    },
+    {
+      "role": "system",
+      "content": "【角色】龙司：哎哎？我！？"
+    }
+  ]
+}
