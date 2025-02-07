@@ -64,5 +64,4 @@
 
 欢迎任何形式的贡献！请提交问题或拉取请求。
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?logo=huggingface&logoColor=black)
