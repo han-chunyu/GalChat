@@ -1,12 +1,14 @@
 # GalChat
 
 <div align="center">
+
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](CONTRIBUTING.md)
 [![Contributors](https://img.shields.io/github/contributors/anka-afk/GalChat?color=green)](https://github.com/anka-afk/GalChat/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/anka-afk/GalChat)](https://github.com/anka-afk/GalChat/commits/main)
+
 </div>
 
 <div align="center">
